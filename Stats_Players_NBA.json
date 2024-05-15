@@ -1,3436 +1,5724 @@
 {
     "Points": [
         {
-            "Pos": 1,
             "Player": "Joel Embiid",
             "Team": "PHI",
-            "Points per Game": 34.7
+            "PTS": 34.7,
+            "AST": 5.6,
+            "REB": 11.0,
+            "BLK": 1.7,
+            "STL": 1.2,
+            "3P%": 38.8
         },
         {
-            "Pos": 2,
             "Player": "Luka Doncic",
             "Team": "DAL",
-            "Points per Game": 33.9
+            "PTS": 33.9,
+            "AST": 9.8,
+            "REB": 9.2,
+            "BLK": 0.5,
+            "STL": 1.4,
+            "3P%": 38.2
         },
         {
-            "Pos": 3,
             "Player": "Giannis Antetokounmpo",
             "Team": "MIL",
-            "Points per Game": 30.4
+            "PTS": 30.4,
+            "AST": 6.5,
+            "REB": 11.5,
+            "BLK": 1.1,
+            "STL": 1.2,
+            "3P%": 27.4
         },
         {
-            "Pos": 4,
             "Player": "Shai Gilgeous-Alexander",
             "Team": "OKC",
-            "Points per Game": 30.1
+            "PTS": 30.1,
+            "AST": 6.2,
+            "REB": 5.5,
+            "BLK": 0.9,
+            "STL": 2.0,
+            "3P%": 35.3
         },
         {
-            "Pos": 5,
             "Player": "Jalen Brunson",
             "Team": "NYK",
-            "Points per Game": 28.7
+            "PTS": 28.7,
+            "AST": 6.7,
+            "REB": 3.6,
+            "BLK": 0.2,
+            "STL": 0.9,
+            "3P%": 40.1
         },
         {
-            "Pos": 6,
             "Player": "Kevin Durant",
             "Team": "PHX",
-            "Points per Game": 27.1
+            "PTS": 27.1,
+            "AST": 5.0,
+            "REB": 6.6,
+            "BLK": 1.2,
+            "STL": 0.9,
+            "3P%": 41.3
         },
         {
-            "Pos": 7,
             "Player": "Devin Booker",
             "Team": "PHX",
-            "Points per Game": 27.1
+            "PTS": 27.1,
+            "AST": 6.9,
+            "REB": 4.5,
+            "BLK": 0.4,
+            "STL": 0.9,
+            "3P%": 36.4
         },
         {
-            "Pos": 8,
             "Player": "Jayson Tatum",
             "Team": "BOS",
-            "Points per Game": 26.9
+            "PTS": 26.9,
+            "AST": 4.9,
+            "REB": 8.1,
+            "BLK": 0.6,
+            "STL": 1.0,
+            "3P%": 37.6
         },
         {
-            "Pos": 9,
             "Player": "Donovan Mitchell",
             "Team": "CLE",
-            "Points per Game": 26.6
+            "PTS": 26.6,
+            "AST": 6.1,
+            "REB": 5.1,
+            "BLK": 0.5,
+            "STL": 1.8,
+            "3P%": 36.8
         },
         {
-            "Pos": 10,
             "Player": "De'Aaron Fox",
             "Team": "SAC",
-            "Points per Game": 26.6
+            "PTS": 26.6,
+            "AST": 5.6,
+            "REB": 4.6,
+            "BLK": 0.4,
+            "STL": 2.0,
+            "3P%": 36.9
         },
         {
-            "Pos": 11,
             "Player": "Stephen Curry",
             "Team": "GSW",
-            "Points per Game": 26.4
+            "PTS": 26.4,
+            "AST": 5.1,
+            "REB": 4.5,
+            "BLK": 0.4,
+            "STL": 0.7,
+            "3P%": 40.8
         },
         {
-            "Pos": 12,
             "Player": "Nikola Jokic",
             "Team": "DEN",
-            "Points per Game": 26.4
+            "PTS": 26.4,
+            "AST": 9.0,
+            "REB": 12.4,
+            "BLK": 0.9,
+            "STL": 1.4,
+            "3P%": 35.9
         },
         {
-            "Pos": 13,
             "Player": "Tyrese Maxey",
             "Team": "PHI",
-            "Points per Game": 25.9
+            "PTS": 25.9,
+            "AST": 6.2,
+            "REB": 3.7,
+            "BLK": 0.5,
+            "STL": 1.0,
+            "3P%": 37.3
         },
         {
-            "Pos": 14,
             "Player": "Anthony Edwards",
             "Team": "MIN",
-            "Points per Game": 25.9
+            "PTS": 25.9,
+            "AST": 5.1,
+            "REB": 5.4,
+            "BLK": 0.5,
+            "STL": 1.3,
+            "3P%": 35.7
         },
         {
-            "Pos": 15,
             "Player": "Trae Young",
             "Team": "ATL",
-            "Points per Game": 25.7
+            "PTS": 25.7,
+            "AST": 10.8,
+            "REB": 2.8,
+            "BLK": 0.2,
+            "STL": 1.3,
+            "3P%": 37.3
         },
         {
-            "Pos": 16,
             "Player": "LeBron James",
             "Team": "LAL",
-            "Points per Game": 25.7
+            "PTS": 25.7,
+            "AST": 8.3,
+            "REB": 7.3,
+            "BLK": 0.5,
+            "STL": 1.3,
+            "3P%": 41.0
         },
         {
-            "Pos": 17,
             "Player": "Kyrie Irving",
             "Team": "DAL",
-            "Points per Game": 25.6
+            "PTS": 25.6,
+            "AST": 5.2,
+            "REB": 5.0,
+            "BLK": 0.5,
+            "STL": 1.3,
+            "3P%": 41.1
         },
         {
-            "Pos": 18,
             "Player": "Ja Morant",
             "Team": "MEM",
-            "Points per Game": 25.1
+            "PTS": 25.1,
+            "AST": 8.1,
+            "REB": 5.6,
+            "BLK": 0.6,
+            "STL": 0.8,
+            "3P%": 27.5
         },
         {
-            "Pos": 19,
             "Player": "Anthony Davis",
             "Team": "LAL",
-            "Points per Game": 24.7
+            "PTS": 24.7,
+            "AST": 3.5,
+            "REB": 12.6,
+            "BLK": 2.3,
+            "STL": 1.2,
+            "3P%": 27.1
         },
         {
-            "Pos": 20,
             "Player": "Damian Lillard",
             "Team": "MIL",
-            "Points per Game": 24.3
+            "PTS": 24.3,
+            "AST": 7.0,
+            "REB": 4.4,
+            "BLK": 0.2,
+            "STL": 1.0,
+            "3P%": 35.4
         },
         {
-            "Pos": 21,
             "Player": "DeMar DeRozan",
             "Team": "CHI",
-            "Points per Game": 24.0
+            "PTS": 24.0,
+            "AST": 5.3,
+            "REB": 4.3,
+            "BLK": 0.6,
+            "STL": 1.1,
+            "3P%": 33.3
         },
         {
-            "Pos": 22,
             "Player": "Julius Randle",
             "Team": "NYK",
-            "Points per Game": 24.0
+            "PTS": 24.0,
+            "AST": 5.0,
+            "REB": 9.2,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 31.1
         },
         {
-            "Pos": 23,
             "Player": "LaMelo Ball",
             "Team": "CHA",
-            "Points per Game": 23.9
+            "PTS": 23.9,
+            "AST": 8.0,
+            "REB": 5.1,
+            "BLK": 0.2,
+            "STL": 1.8,
+            "3P%": 35.5
         },
         {
-            "Pos": 24,
             "Player": "Desmond Bane",
             "Team": "MEM",
-            "Points per Game": 23.7
+            "PTS": 23.7,
+            "AST": 5.5,
+            "REB": 4.4,
+            "BLK": 0.5,
+            "STL": 1.0,
+            "3P%": 38.1
         },
         {
-            "Pos": 25,
             "Player": "Kawhi Leonard",
             "Team": "LAC",
-            "Points per Game": 23.7
+            "PTS": 23.7,
+            "AST": 3.6,
+            "REB": 6.1,
+            "BLK": 0.9,
+            "STL": 1.6,
+            "3P%": 41.7
         },
         {
-            "Pos": 26,
             "Player": "Lauri Markkanen",
             "Team": "UTA",
-            "Points per Game": 23.2
+            "PTS": 23.2,
+            "AST": 2.0,
+            "REB": 8.2,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 39.9
         },
         {
-            "Pos": 27,
             "Player": "Jaylen Brown",
             "Team": "BOS",
-            "Points per Game": 23.0
+            "PTS": 23.0,
+            "AST": 3.6,
+            "REB": 5.5,
+            "BLK": 0.5,
+            "STL": 1.2,
+            "3P%": 35.4
         },
         {
-            "Pos": 28,
             "Player": "Zion Williamson",
             "Team": "NOP",
-            "Points per Game": 22.9
+            "PTS": 22.9,
+            "AST": 5.0,
+            "REB": 5.8,
+            "BLK": 0.7,
+            "STL": 1.1,
+            "3P%": 33.3
         },
         {
-            "Pos": 29,
             "Player": "Cade Cunningham",
             "Team": "DET",
-            "Points per Game": 22.7
+            "PTS": 22.7,
+            "AST": 7.5,
+            "REB": 4.3,
+            "BLK": 0.4,
+            "STL": 0.9,
+            "3P%": 35.5
         },
         {
-            "Pos": 30,
             "Player": "Anfernee Simons",
             "Team": "POR",
-            "Points per Game": 22.6
+            "PTS": 22.6,
+            "AST": 5.5,
+            "REB": 3.6,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 38.5
         },
         {
-            "Pos": 31,
             "Player": "Paul George",
             "Team": "LAC",
-            "Points per Game": 22.6
+            "PTS": 22.6,
+            "AST": 3.5,
+            "REB": 5.2,
+            "BLK": 0.5,
+            "STL": 1.5,
+            "3P%": 41.3
         },
         {
-            "Pos": 32,
             "Player": "Paolo Banchero",
             "Team": "ORL",
-            "Points per Game": 22.6
+            "PTS": 22.6,
+            "AST": 5.4,
+            "REB": 6.9,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 33.9
         },
         {
-            "Pos": 33,
             "Player": "Jaren Jackson Jr.",
             "Team": "MEM",
-            "Points per Game": 22.5
+            "PTS": 22.5,
+            "AST": 2.3,
+            "REB": 5.5,
+            "BLK": 1.6,
+            "STL": 1.2,
+            "3P%": 32.0
         },
         {
-            "Pos": 34,
             "Player": "Dejounte Murray",
             "Team": "ATL",
-            "Points per Game": 22.5
+            "PTS": 22.5,
+            "AST": 6.4,
+            "REB": 5.3,
+            "BLK": 0.3,
+            "STL": 1.4,
+            "3P%": 36.3
         },
         {
-            "Pos": 35,
             "Player": "Cam Thomas",
             "Team": "BKN",
-            "Points per Game": 22.5
+            "PTS": 22.5,
+            "AST": 2.9,
+            "REB": 3.2,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 36.4
         },
         {
-            "Pos": 36,
             "Player": "Kyle Kuzma",
             "Team": "WAS",
-            "Points per Game": 22.2
+            "PTS": 22.2,
+            "AST": 4.2,
+            "REB": 6.6,
+            "BLK": 0.7,
+            "STL": 0.5,
+            "3P%": 33.6
         },
         {
-            "Pos": 37,
             "Player": "Karl-Anthony Towns",
             "Team": "MIN",
-            "Points per Game": 21.8
+            "PTS": 21.8,
+            "AST": 3.0,
+            "REB": 8.3,
+            "BLK": 0.7,
+            "STL": 0.7,
+            "3P%": 41.6
         },
         {
-            "Pos": 38,
             "Player": "Pascal Siakam",
             "Team": "IND",
-            "Points per Game": 21.7
+            "PTS": 21.7,
+            "AST": 4.3,
+            "REB": 7.1,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 34.6
         },
         {
-            "Pos": 39,
             "Player": "Victor Wembanyama",
             "Team": "SAS",
-            "Points per Game": 21.4
+            "PTS": 21.4,
+            "AST": 3.9,
+            "REB": 10.6,
+            "BLK": 3.6,
+            "STL": 1.2,
+            "3P%": 32.5
         },
         {
-            "Pos": 40,
             "Player": "Jamal Murray",
             "Team": "DEN",
-            "Points per Game": 21.2
+            "PTS": 21.2,
+            "AST": 6.5,
+            "REB": 4.1,
+            "BLK": 0.7,
+            "STL": 1.0,
+            "3P%": 42.5
         },
         {
-            "Pos": 41,
             "Player": "Alperen Sengun",
             "Team": "HOU",
-            "Points per Game": 21.1
+            "PTS": 21.1,
+            "AST": 5.0,
+            "REB": 9.3,
+            "BLK": 0.7,
+            "STL": 1.2,
+            "3P%": 29.7
         },
         {
-            "Pos": 42,
             "Player": "Miles Bridges",
             "Team": "CHA",
-            "Points per Game": 21.0
+            "PTS": 21.0,
+            "AST": 3.3,
+            "REB": 7.3,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 34.9
         },
         {
-            "Pos": 43,
             "Player": "Jerami Grant",
             "Team": "POR",
-            "Points per Game": 21.0
+            "PTS": 21.0,
+            "AST": 2.8,
+            "REB": 3.5,
+            "BLK": 0.6,
+            "STL": 0.8,
+            "3P%": 40.2
         },
         {
-            "Pos": 44,
             "Player": "Tyler Herro",
             "Team": "MIA",
-            "Points per Game": 20.8
+            "PTS": 20.8,
+            "AST": 4.5,
+            "REB": 5.3,
+            "BLK": 0.1,
+            "STL": 0.7,
+            "3P%": 39.6
         },
         {
-            "Pos": 45,
             "Player": "Brandon Ingram",
             "Team": "NOP",
-            "Points per Game": 20.8
+            "PTS": 20.8,
+            "AST": 5.7,
+            "REB": 5.1,
+            "BLK": 0.6,
+            "STL": 0.8,
+            "3P%": 35.5
         },
         {
-            "Pos": 46,
             "Player": "Jimmy Butler",
             "Team": "MIA",
-            "Points per Game": 20.8
+            "PTS": 20.8,
+            "AST": 5.0,
+            "REB": 5.3,
+            "BLK": 0.3,
+            "STL": 1.3,
+            "3P%": 41.4
         },
         {
-            "Pos": 47,
             "Player": "RJ Barrett",
             "Team": "TOR",
-            "Points per Game": 20.2
+            "PTS": 20.2,
+            "AST": 3.3,
+            "REB": 5.4,
+            "BLK": 0.4,
+            "STL": 0.5,
+            "3P%": 36.0
         },
         {
-            "Pos": 48,
             "Player": "Tyrese Haliburton",
             "Team": "IND",
-            "Points per Game": 20.1
+            "PTS": 20.1,
+            "AST": 10.9,
+            "REB": 3.9,
+            "BLK": 0.7,
+            "STL": 1.2,
+            "3P%": 36.4
         },
         {
-            "Pos": 49,
             "Player": "Kristaps Porzingis",
             "Team": "BOS",
-            "Points per Game": 20.1
+            "PTS": 20.1,
+            "AST": 2.0,
+            "REB": 7.2,
+            "BLK": 1.9,
+            "STL": 0.7,
+            "3P%": 37.5
         },
         {
-            "Pos": 50,
             "Player": "CJ McCollum",
             "Team": "NOP",
-            "Points per Game": 20.0
+            "PTS": 20.0,
+            "AST": 4.6,
+            "REB": 4.3,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 42.9
         },
         {
-            "Pos": 51,
             "Player": "Scottie Barnes",
             "Team": "TOR",
-            "Points per Game": 19.9
+            "PTS": 19.9,
+            "AST": 6.1,
+            "REB": 8.2,
+            "BLK": 1.5,
+            "STL": 1.3,
+            "3P%": 34.1
         },
         {
-            "Pos": 52,
             "Player": "Terry Rozier",
             "Team": "MIA",
-            "Points per Game": 19.8
+            "PTS": 19.8,
+            "AST": 5.6,
+            "REB": 4.0,
+            "BLK": 0.3,
+            "STL": 1.0,
+            "3P%": 36.3
         },
         {
-            "Pos": 53,
             "Player": "Franz Wagner",
             "Team": "ORL",
-            "Points per Game": 19.7
+            "PTS": 19.7,
+            "AST": 3.7,
+            "REB": 5.3,
+            "BLK": 0.4,
+            "STL": 1.1,
+            "3P%": 28.1
         },
         {
-            "Pos": 54,
             "Player": "Jalen Green",
             "Team": "HOU",
-            "Points per Game": 19.6
+            "PTS": 19.6,
+            "AST": 3.5,
+            "REB": 5.2,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 33.2
         },
         {
-            "Pos": 55,
             "Player": "Mikal Bridges",
             "Team": "BKN",
-            "Points per Game": 19.6
+            "PTS": 19.6,
+            "AST": 3.6,
+            "REB": 4.5,
+            "BLK": 0.4,
+            "STL": 1.0,
+            "3P%": 37.2
         },
         {
-            "Pos": 56,
             "Player": "Zach LaVine",
             "Team": "CHI",
-            "Points per Game": 19.5
+            "PTS": 19.5,
+            "AST": 3.9,
+            "REB": 5.2,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 34.9
         },
         {
-            "Pos": 57,
             "Player": "Devin Vassell",
             "Team": "SAS",
-            "Points per Game": 19.5
+            "PTS": 19.5,
+            "AST": 4.1,
+            "REB": 3.8,
+            "BLK": 0.3,
+            "STL": 1.1,
+            "3P%": 37.2
         },
         {
-            "Pos": 58,
             "Player": "Domantas Sabonis",
             "Team": "SAC",
-            "Points per Game": 19.4
+            "PTS": 19.4,
+            "AST": 8.2,
+            "REB": 13.7,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 37.9
         },
         {
-            "Pos": 59,
             "Player": "Bam Adebayo",
             "Team": "MIA",
-            "Points per Game": 19.3
+            "PTS": 19.3,
+            "AST": 3.9,
+            "REB": 10.4,
+            "BLK": 0.9,
+            "STL": 1.1,
+            "3P%": 35.7
         },
         {
-            "Pos": 60,
             "Player": "Coby White",
             "Team": "CHI",
-            "Points per Game": 19.1
+            "PTS": 19.1,
+            "AST": 5.1,
+            "REB": 4.5,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 37.6
         },
         {
-            "Pos": 61,
             "Player": "Jalen Williams",
             "Team": "OKC",
-            "Points per Game": 19.1
+            "PTS": 19.1,
+            "AST": 4.5,
+            "REB": 4.0,
+            "BLK": 0.6,
+            "STL": 1.1,
+            "3P%": 42.7
         },
         {
-            "Pos": 62,
             "Player": "Collin Sexton",
             "Team": "UTA",
-            "Points per Game": 18.7
+            "PTS": 18.7,
+            "AST": 4.9,
+            "REB": 2.6,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 39.4
         },
         {
-            "Pos": 63,
             "Player": "Bradley Beal",
             "Team": "PHX",
-            "Points per Game": 18.2
+            "PTS": 18.2,
+            "AST": 5.0,
+            "REB": 4.4,
+            "BLK": 0.5,
+            "STL": 1.0,
+            "3P%": 43.0
         },
         {
-            "Pos": 64,
             "Player": "Darius Garland",
             "Team": "CLE",
-            "Points per Game": 18.0
+            "PTS": 18.0,
+            "AST": 6.5,
+            "REB": 2.7,
+            "BLK": 0.1,
+            "STL": 1.3,
+            "3P%": 37.1
         },
         {
-            "Pos": 65,
             "Player": "Nikola Vucevic",
             "Team": "CHI",
-            "Points per Game": 18.0
+            "PTS": 18.0,
+            "AST": 3.3,
+            "REB": 10.5,
+            "BLK": 0.8,
+            "STL": 0.7,
+            "3P%": 29.4
         },
         {
-            "Pos": 66,
             "Player": "D'Angelo Russell",
             "Team": "LAL",
-            "Points per Game": 18.0
+            "PTS": 18.0,
+            "AST": 6.3,
+            "REB": 3.1,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 41.5
         },
         {
-            "Pos": 67,
             "Player": "Klay Thompson",
             "Team": "GSW",
-            "Points per Game": 17.9
+            "PTS": 17.9,
+            "AST": 2.3,
+            "REB": 3.3,
+            "BLK": 0.5,
+            "STL": 0.6,
+            "3P%": 38.7
         },
         {
-            "Pos": 68,
             "Player": "Fred VanVleet",
             "Team": "HOU",
-            "Points per Game": 17.4
+            "PTS": 17.4,
+            "AST": 8.1,
+            "REB": 3.8,
+            "BLK": 0.8,
+            "STL": 1.4,
+            "3P%": 38.7
         },
         {
-            "Pos": 69,
             "Player": "Jordan Poole",
             "Team": "WAS",
-            "Points per Game": 17.4
+            "PTS": 17.4,
+            "AST": 4.4,
+            "REB": 2.7,
+            "BLK": 0.3,
+            "STL": 1.1,
+            "3P%": 32.6
         },
         {
-            "Pos": 70,
             "Player": "Brandon Miller",
             "Team": "CHA",
-            "Points per Game": 17.3
+            "PTS": 17.3,
+            "AST": 2.4,
+            "REB": 4.3,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 37.3
         },
         {
-            "Pos": 71,
             "Player": "Tobias Harris",
             "Team": "PHI",
-            "Points per Game": 17.2
+            "PTS": 17.2,
+            "AST": 3.1,
+            "REB": 6.5,
+            "BLK": 0.7,
+            "STL": 1.0,
+            "3P%": 35.3
         },
         {
-            "Pos": 72,
             "Player": "Jordan Clarkson",
             "Team": "UTA",
-            "Points per Game": 17.1
+            "PTS": 17.1,
+            "AST": 5.0,
+            "REB": 3.4,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 29.4
         },
         {
-            "Pos": 73,
             "Player": "Myles Turner",
             "Team": "IND",
-            "Points per Game": 17.1
+            "PTS": 17.1,
+            "AST": 1.3,
+            "REB": 6.9,
+            "BLK": 1.9,
+            "STL": 0.5,
+            "3P%": 35.8
         },
         {
-            "Pos": 74,
             "Player": "Immanuel Quickley",
             "Team": "TOR",
-            "Points per Game": 17.0
+            "PTS": 17.0,
+            "AST": 4.9,
+            "REB": 3.8,
+            "BLK": 0.1,
+            "STL": 0.7,
+            "3P%": 39.5
         },
         {
-            "Pos": 75,
             "Player": "Bogdan Bogdanovic",
             "Team": "ATL",
-            "Points per Game": 16.9
+            "PTS": 16.9,
+            "AST": 3.1,
+            "REB": 3.4,
+            "BLK": 0.3,
+            "STL": 1.2,
+            "3P%": 37.4
         },
         {
-            "Pos": 76,
             "Player": "Michael Porter Jr.",
             "Team": "DEN",
-            "Points per Game": 16.7
+            "PTS": 16.7,
+            "AST": 1.5,
+            "REB": 7.0,
+            "BLK": 0.7,
+            "STL": 0.5,
+            "3P%": 39.7
         },
         {
-            "Pos": 77,
             "Player": "Deandre Ayton",
             "Team": "POR",
-            "Points per Game": 16.7
+            "PTS": 16.7,
+            "AST": 1.6,
+            "REB": 11.1,
+            "BLK": 0.8,
+            "STL": 1.0,
+            "3P%": 10.0
         },
         {
-            "Pos": 78,
             "Player": "James Harden",
             "Team": "LAC",
-            "Points per Game": 16.6
+            "PTS": 16.6,
+            "AST": 8.5,
+            "REB": 5.1,
+            "BLK": 0.8,
+            "STL": 1.1,
+            "3P%": 38.1
         },
         {
-            "Pos": 79,
             "Player": "Chet Holmgren",
             "Team": "OKC",
-            "Points per Game": 16.5
+            "PTS": 16.5,
+            "AST": 2.4,
+            "REB": 7.9,
+            "BLK": 2.3,
+            "STL": 0.6,
+            "3P%": 37.0
         },
         {
-            "Pos": 80,
             "Player": "Jarrett Allen",
             "Team": "CLE",
-            "Points per Game": 16.5
+            "PTS": 16.5,
+            "AST": 2.7,
+            "REB": 10.5,
+            "BLK": 1.1,
+            "STL": 0.7,
+            "3P%": 0.0
         },
         {
-            "Pos": 81,
             "Player": "Jonathan Kuminga",
             "Team": "GSW",
-            "Points per Game": 16.1
+            "PTS": 16.1,
+            "AST": 2.2,
+            "REB": 4.8,
+            "BLK": 0.5,
+            "STL": 0.7,
+            "3P%": 32.1
         },
         {
-            "Pos": 82,
             "Player": "Jalen Johnson",
             "Team": "ATL",
-            "Points per Game": 16.0
+            "PTS": 16.0,
+            "AST": 3.6,
+            "REB": 8.7,
+            "BLK": 0.8,
+            "STL": 1.2,
+            "3P%": 35.5
         },
         {
-            "Pos": 83,
             "Player": "Shaedon Sharpe",
             "Team": "POR",
-            "Points per Game": 15.9
+            "PTS": 15.9,
+            "AST": 2.9,
+            "REB": 5.0,
+            "BLK": 0.4,
+            "STL": 0.9,
+            "3P%": 33.3
         },
         {
-            "Pos": 84,
             "Player": "Austin Reaves",
             "Team": "LAL",
-            "Points per Game": 15.9
+            "PTS": 15.9,
+            "AST": 5.5,
+            "REB": 4.3,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 36.7
         },
         {
-            "Pos": 85,
             "Player": "Malcolm Brogdon",
             "Team": "POR",
-            "Points per Game": 15.7
+            "PTS": 15.7,
+            "AST": 5.5,
+            "REB": 3.8,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 41.2
         },
         {
-            "Pos": 86,
             "Player": "Keldon Johnson",
             "Team": "SAS",
-            "Points per Game": 15.7
+            "PTS": 15.7,
+            "AST": 2.8,
+            "REB": 5.5,
+            "BLK": 0.3,
+            "STL": 0.7,
+            "3P%": 34.6
         },
         {
-            "Pos": 87,
             "Player": "Evan Mobley",
             "Team": "CLE",
-            "Points per Game": 15.7
+            "PTS": 15.7,
+            "AST": 3.2,
+            "REB": 9.4,
+            "BLK": 1.4,
+            "STL": 0.9,
+            "3P%": 37.3
         },
         {
-            "Pos": 88,
             "Player": "De'Andre Hunter",
             "Team": "ATL",
-            "Points per Game": 15.6
+            "PTS": 15.6,
+            "AST": 1.5,
+            "REB": 3.9,
+            "BLK": 0.3,
+            "STL": 0.7,
+            "3P%": 38.5
         },
         {
-            "Pos": 89,
             "Player": "Donte DiVincenzo",
             "Team": "NYK",
-            "Points per Game": 15.5
+            "PTS": 15.5,
+            "AST": 2.7,
+            "REB": 3.7,
+            "BLK": 0.4,
+            "STL": 1.3,
+            "3P%": 40.1
         },
         {
-            "Pos": 90,
             "Player": "Kelly Oubre Jr.",
             "Team": "PHI",
-            "Points per Game": 15.4
+            "PTS": 15.4,
+            "AST": 1.5,
+            "REB": 5.0,
+            "BLK": 0.7,
+            "STL": 1.1,
+            "3P%": 31.1
         },
         {
-            "Pos": 91,
             "Player": "Malik Monk",
             "Team": "SAC",
-            "Points per Game": 15.4
+            "PTS": 15.4,
+            "AST": 5.1,
+            "REB": 2.9,
+            "BLK": 0.5,
+            "STL": 0.6,
+            "3P%": 35.0
         },
         {
-            "Pos": 92,
             "Player": "Jaden Ivey",
             "Team": "DET",
-            "Points per Game": 15.4
+            "PTS": 15.4,
+            "AST": 3.8,
+            "REB": 3.4,
+            "BLK": 0.5,
+            "STL": 0.7,
+            "3P%": 33.6
         },
         {
-            "Pos": 93,
             "Player": "Bojan Bogdanovic",
             "Team": "NYK",
-            "Points per Game": 15.2
+            "PTS": 15.2,
+            "AST": 1.7,
+            "REB": 2.7,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 39.8
         },
         {
-            "Pos": 94,
             "Player": "Keegan Murray",
             "Team": "SAC",
-            "Points per Game": 15.2
+            "PTS": 15.2,
+            "AST": 1.7,
+            "REB": 5.5,
+            "BLK": 0.8,
+            "STL": 1.0,
+            "3P%": 35.8
         },
         {
-            "Pos": 95,
             "Player": "Derrick White",
             "Team": "BOS",
-            "Points per Game": 15.2
+            "PTS": 15.2,
+            "AST": 5.2,
+            "REB": 4.2,
+            "BLK": 1.2,
+            "STL": 1.0,
+            "3P%": 39.6
         },
         {
-            "Pos": 96,
             "Player": "John Collins",
             "Team": "UTA",
-            "Points per Game": 15.1
+            "PTS": 15.1,
+            "AST": 1.1,
+            "REB": 8.5,
+            "BLK": 0.9,
+            "STL": 0.6,
+            "3P%": 37.1
         },
         {
-            "Pos": 97,
             "Player": "Khris Middleton",
             "Team": "MIL",
-            "Points per Game": 15.1
+            "PTS": 15.1,
+            "AST": 5.3,
+            "REB": 4.7,
+            "BLK": 0.3,
+            "STL": 0.9,
+            "3P%": 38.1
         },
         {
-            "Pos": 98,
             "Player": "Trey Murphy III",
             "Team": "NOP",
-            "Points per Game": 14.8
+            "PTS": 14.8,
+            "AST": 2.2,
+            "REB": 4.9,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 38.0
         },
         {
-            "Pos": 99,
             "Player": "Deni Avdija",
             "Team": "WAS",
-            "Points per Game": 14.7
+            "PTS": 14.7,
+            "AST": 3.8,
+            "REB": 7.2,
+            "BLK": 0.5,
+            "STL": 0.8,
+            "3P%": 37.4
         },
         {
-            "Pos": 100,
             "Player": "OG Anunoby",
             "Team": "NYK",
-            "Points per Game": 14.7
+            "PTS": 14.7,
+            "AST": 2.1,
+            "REB": 4.2,
+            "BLK": 0.7,
+            "STL": 1.4,
+            "3P%": 38.2
         },
         {
-            "Pos": 101,
             "Player": "GG Jackson",
             "Team": "MEM",
-            "Points per Game": 14.6
+            "PTS": 14.6,
+            "AST": 1.2,
+            "REB": 4.1,
+            "BLK": 0.5,
+            "STL": 0.6,
+            "3P%": 35.7
         },
         {
-            "Pos": 102,
             "Player": "Bennedict Mathurin",
             "Team": "IND",
-            "Points per Game": 14.5
+            "PTS": 14.5,
+            "AST": 2.0,
+            "REB": 4.0,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 37.4
         },
         {
-            "Pos": 103,
             "Player": "Marcus Smart",
             "Team": "MEM",
-            "Points per Game": 14.5
+            "PTS": 14.5,
+            "AST": 4.3,
+            "REB": 2.7,
+            "BLK": 0.3,
+            "STL": 2.1,
+            "3P%": 31.3
         },
         {
-            "Pos": 104,
             "Player": "Tim Hardaway Jr.",
             "Team": "DAL",
-            "Points per Game": 14.4
+            "PTS": 14.4,
+            "AST": 1.8,
+            "REB": 3.2,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 35.3
         },
         {
-            "Pos": 105,
             "Player": "Dennis Schroder",
             "Team": "BKN",
-            "Points per Game": 14.0
+            "PTS": 14.0,
+            "AST": 6.1,
+            "REB": 3.0,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 37.5
         },
         {
-            "Pos": 106,
             "Player": "Caris LeVert",
             "Team": "CLE",
-            "Points per Game": 14.0
+            "PTS": 14.0,
+            "AST": 5.1,
+            "REB": 4.1,
+            "BLK": 0.5,
+            "STL": 1.1,
+            "3P%": 32.5
         },
         {
-            "Pos": 106,
             "Player": "Scoot Henderson",
             "Team": "POR",
-            "Points per Game": 14.0
+            "PTS": 14.0,
+            "AST": 5.4,
+            "REB": 3.1,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 32.5
         },
         {
-            "Pos": 108,
             "Player": "Rudy Gobert",
             "Team": "MIN",
-            "Points per Game": 14.0
+            "PTS": 14.0,
+            "AST": 1.3,
+            "REB": 12.9,
+            "BLK": 2.1,
+            "STL": 0.7,
+            "3P%": 0.0
         },
         {
-            "Pos": 109,
             "Player": "Norman Powell",
             "Team": "LAC",
-            "Points per Game": 13.9
+            "PTS": 13.9,
+            "AST": 1.1,
+            "REB": 2.6,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 43.5
         },
         {
-            "Pos": 110,
             "Player": "Aaron Gordon",
             "Team": "DEN",
-            "Points per Game": 13.9
+            "PTS": 13.9,
+            "AST": 3.5,
+            "REB": 6.5,
+            "BLK": 0.6,
+            "STL": 0.8,
+            "3P%": 29.0
         },
         {
-            "Pos": 111,
             "Player": "Jalen Duren",
             "Team": "DET",
-            "Points per Game": 13.8
+            "PTS": 13.8,
+            "AST": 2.4,
+            "REB": 11.6,
+            "BLK": 0.8,
+            "STL": 0.5,
+            "3P%": 0.0
         },
         {
-            "Pos": 112,
             "Player": "Bobby Portis",
             "Team": "MIL",
-            "Points per Game": 13.8
+            "PTS": 13.8,
+            "AST": 1.3,
+            "REB": 7.4,
+            "BLK": 0.4,
+            "STL": 0.8,
+            "3P%": 40.7
         },
         {
-            "Pos": 113,
             "Player": "Jabari Smith Jr.",
             "Team": "HOU",
-            "Points per Game": 13.7
+            "PTS": 13.7,
+            "AST": 1.6,
+            "REB": 8.1,
+            "BLK": 0.8,
+            "STL": 0.7,
+            "3P%": 36.3
         },
         {
-            "Pos": 114,
             "Player": "Gary Trent Jr.",
             "Team": "TOR",
-            "Points per Game": 13.7
+            "PTS": 13.7,
+            "AST": 1.7,
+            "REB": 2.6,
+            "BLK": 0.1,
+            "STL": 1.1,
+            "3P%": 39.3
         },
         {
-            "Pos": 115,
             "Player": "Saddiq Bey",
             "Team": "ATL",
-            "Points per Game": 13.7
+            "PTS": 13.7,
+            "AST": 1.5,
+            "REB": 6.5,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 31.6
         },
         {
-            "Pos": 116,
             "Player": "Rui Hachimura",
             "Team": "LAL",
-            "Points per Game": 13.6
+            "PTS": 13.6,
+            "AST": 1.2,
+            "REB": 4.3,
+            "BLK": 0.4,
+            "STL": 0.6,
+            "3P%": 42.2
         },
         {
-            "Pos": 117,
             "Player": "Grayson Allen",
             "Team": "PHX",
-            "Points per Game": 13.5
+            "PTS": 13.5,
+            "AST": 3.0,
+            "REB": 3.9,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 46.1
         },
         {
-            "Pos": 118,
             "Player": "Naz Reid",
             "Team": "MIN",
-            "Points per Game": 13.5
+            "PTS": 13.5,
+            "AST": 1.3,
+            "REB": 5.2,
+            "BLK": 0.9,
+            "STL": 0.8,
+            "3P%": 41.4
         },
         {
-            "Pos": 119,
             "Player": "Cameron Johnson",
             "Team": "BKN",
-            "Points per Game": 13.4
+            "PTS": 13.4,
+            "AST": 2.4,
+            "REB": 4.3,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 39.1
         },
         {
-            "Pos": 120,
             "Player": "Corey Kispert",
             "Team": "WAS",
-            "Points per Game": 13.4
+            "PTS": 13.4,
+            "AST": 2.0,
+            "REB": 2.8,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 38.3
         },
         {
-            "Pos": 121,
             "Player": "Andrew Wiggins",
             "Team": "GSW",
-            "Points per Game": 13.2
+            "PTS": 13.2,
+            "AST": 1.7,
+            "REB": 4.5,
+            "BLK": 0.6,
+            "STL": 0.6,
+            "3P%": 35.8
         },
         {
-            "Pos": 122,
             "Player": "Keyonte George",
             "Team": "UTA",
-            "Points per Game": 13.0
+            "PTS": 13.0,
+            "AST": 4.4,
+            "REB": 2.8,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 33.4
         },
         {
-            "Pos": 123,
             "Player": "Scotty Pippen Jr.",
             "Team": "MEM",
-            "Points per Game": 12.9
+            "PTS": 12.9,
+            "AST": 4.7,
+            "REB": 3.2,
+            "BLK": 0.5,
+            "STL": 1.7,
+            "3P%": 41.7
         },
         {
-            "Pos": 124,
             "Player": "Duncan Robinson",
             "Team": "MIA",
-            "Points per Game": 12.9
+            "PTS": 12.9,
+            "AST": 2.8,
+            "REB": 2.5,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 39.5
         },
         {
-            "Pos": 125,
             "Player": "P.J. Washington",
             "Team": "DAL",
-            "Points per Game": 12.9
+            "PTS": 12.9,
+            "AST": 1.9,
+            "REB": 5.6,
+            "BLK": 0.8,
+            "STL": 1.0,
+            "3P%": 32.0
         },
         {
-            "Pos": 126,
             "Player": "Mark Williams",
             "Team": "CHA",
-            "Points per Game": 12.7
+            "PTS": 12.7,
+            "AST": 1.2,
+            "REB": 9.7,
+            "BLK": 1.1,
+            "STL": 0.8,
+            "3P%": 0.0
         },
         {
-            "Pos": 127,
             "Player": "Dillon Brooks",
             "Team": "HOU",
-            "Points per Game": 12.7
+            "PTS": 12.7,
+            "AST": 1.7,
+            "REB": 3.4,
+            "BLK": 0.1,
+            "STL": 0.9,
+            "3P%": 35.9
         },
         {
-            "Pos": 128,
             "Player": "Jalen Suggs",
             "Team": "ORL",
-            "Points per Game": 12.6
+            "PTS": 12.6,
+            "AST": 2.7,
+            "REB": 3.1,
+            "BLK": 0.6,
+            "STL": 1.4,
+            "3P%": 39.7
         },
         {
-            "Pos": 129,
             "Player": "Brook Lopez",
             "Team": "MIL",
-            "Points per Game": 12.5
+            "PTS": 12.5,
+            "AST": 1.6,
+            "REB": 5.2,
+            "BLK": 2.4,
+            "STL": 0.5,
+            "3P%": 36.6
         },
         {
-            "Pos": 130,
             "Player": "Jrue Holiday",
             "Team": "BOS",
-            "Points per Game": 12.5
+            "PTS": 12.5,
+            "AST": 4.8,
+            "REB": 5.4,
+            "BLK": 0.8,
+            "STL": 0.9,
+            "3P%": 42.9
         },
         {
-            "Pos": 131,
             "Player": "Josh Giddey",
             "Team": "OKC",
-            "Points per Game": 12.3
+            "PTS": 12.3,
+            "AST": 4.8,
+            "REB": 6.4,
+            "BLK": 0.6,
+            "STL": 0.7,
+            "3P%": 33.7
         },
         {
-            "Pos": 132,
             "Player": "Cam Whitmore",
             "Team": "HOU",
-            "Points per Game": 12.3
+            "PTS": 12.3,
+            "AST": 0.7,
+            "REB": 3.8,
+            "BLK": 0.4,
+            "STL": 0.6,
+            "3P%": 35.9
         },
         {
-            "Pos": 133,
             "Player": "Javonte Green",
             "Team": "CHI",
-            "Points per Game": 12.2
+            "PTS": 12.2,
+            "AST": 0.6,
+            "REB": 7.4,
+            "BLK": 0.9,
+            "STL": 1.1,
+            "3P%": 37.0
         },
         {
-            "Pos": 134,
             "Player": "Jonas Valanciunas",
             "Team": "NOP",
-            "Points per Game": 12.2
+            "PTS": 12.2,
+            "AST": 2.1,
+            "REB": 8.8,
+            "BLK": 0.8,
+            "STL": 0.4,
+            "3P%": 30.8
         },
         {
-            "Pos": 135,
             "Player": "Harrison Barnes",
             "Team": "SAC",
-            "Points per Game": 12.2
+            "PTS": 12.2,
+            "AST": 1.2,
+            "REB": 3.0,
+            "BLK": 0.1,
+            "STL": 0.7,
+            "3P%": 38.7
         },
         {
-            "Pos": 136,
             "Player": "Max Strus",
             "Team": "CLE",
-            "Points per Game": 12.2
+            "PTS": 12.2,
+            "AST": 4.0,
+            "REB": 4.8,
+            "BLK": 0.4,
+            "STL": 0.9,
+            "3P%": 35.1
         },
         {
-            "Pos": 137,
             "Player": "Aaron Nesmith",
             "Team": "IND",
-            "Points per Game": 12.2
+            "PTS": 12.2,
+            "AST": 1.5,
+            "REB": 3.8,
+            "BLK": 0.7,
+            "STL": 0.9,
+            "3P%": 41.9
         },
         {
-            "Pos": 138,
             "Player": "Ayo Dosunmu",
             "Team": "CHI",
-            "Points per Game": 12.2
+            "PTS": 12.2,
+            "AST": 3.2,
+            "REB": 2.8,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 40.3
         },
         {
-            "Pos": 139,
             "Player": "Buddy Hield",
             "Team": "PHI",
-            "Points per Game": 12.1
+            "PTS": 12.1,
+            "AST": 2.8,
+            "REB": 3.2,
+            "BLK": 0.5,
+            "STL": 0.8,
+            "3P%": 38.6
         },
         {
-            "Pos": 140,
             "Player": "Tyus Jones",
             "Team": "WAS",
-            "Points per Game": 12.0
+            "PTS": 12.0,
+            "AST": 7.3,
+            "REB": 2.7,
+            "BLK": 0.3,
+            "STL": 1.1,
+            "3P%": 41.4
         },
         {
-            "Pos": 141,
             "Player": "Jaime Jaquez Jr.",
             "Team": "MIA",
-            "Points per Game": 11.9
+            "PTS": 11.9,
+            "AST": 2.6,
+            "REB": 3.8,
+            "BLK": 0.3,
+            "STL": 1.0,
+            "3P%": 32.2
         },
         {
-            "Pos": 142,
             "Player": "Nic Claxton",
             "Team": "BKN",
-            "Points per Game": 11.8
+            "PTS": 11.8,
+            "AST": 2.1,
+            "REB": 9.9,
+            "BLK": 2.1,
+            "STL": 0.6,
+            "3P%": 20.0
         },
         {
-            "Pos": 143,
             "Player": "Ivica Zubac",
             "Team": "LAC",
-            "Points per Game": 11.7
+            "PTS": 11.7,
+            "AST": 1.4,
+            "REB": 9.2,
+            "BLK": 1.2,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 144,
             "Player": "Marvin Bagley III",
             "Team": "WAS",
-            "Points per Game": 11.7
+            "PTS": 11.7,
+            "AST": 1.1,
+            "REB": 6.2,
+            "BLK": 0.7,
+            "STL": 0.4,
+            "3P%": 39.1
         },
         {
-            "Pos": 145,
             "Player": "Jeremy Sochan",
             "Team": "SAS",
-            "Points per Game": 11.6
+            "PTS": 11.6,
+            "AST": 3.4,
+            "REB": 6.4,
+            "BLK": 0.5,
+            "STL": 0.8,
+            "3P%": 30.8
         },
         {
-            "Pos": 146,
             "Player": "Cole Anthony",
             "Team": "ORL",
-            "Points per Game": 11.6
+            "PTS": 11.6,
+            "AST": 2.9,
+            "REB": 3.8,
+            "BLK": 0.5,
+            "STL": 0.8,
+            "3P%": 33.8
         },
         {
-            "Pos": 147,
             "Player": "Clint Capela",
             "Team": "ATL",
-            "Points per Game": 11.5
+            "PTS": 11.5,
+            "AST": 1.2,
+            "REB": 10.6,
+            "BLK": 1.5,
+            "STL": 0.6,
+            "3P%": 0.0
         },
         {
-            "Pos": 148,
             "Player": "Mike Conley",
             "Team": "MIN",
-            "Points per Game": 11.4
+            "PTS": 11.4,
+            "AST": 5.9,
+            "REB": 2.9,
+            "BLK": 0.2,
+            "STL": 1.2,
+            "3P%": 44.2
         },
         {
-            "Pos": 149,
             "Player": "Brandon Clarke",
             "Team": "MEM",
-            "Points per Game": 11.3
+            "PTS": 11.3,
+            "AST": 1.5,
+            "REB": 5.3,
+            "BLK": 1.0,
+            "STL": 0.8,
+            "3P%": 16.7
         },
         {
-            "Pos": 150,
             "Player": "Malik Beasley",
             "Team": "MIL",
-            "Points per Game": 11.3
+            "PTS": 11.3,
+            "AST": 1.4,
+            "REB": 3.7,
+            "BLK": 0.1,
+            "STL": 0.7,
+            "3P%": 41.3
         },
         {
-            "Pos": 151,
             "Player": "Zach Collins",
             "Team": "SAS",
-            "Points per Game": 11.2
+            "PTS": 11.2,
+            "AST": 2.8,
+            "REB": 5.4,
+            "BLK": 0.8,
+            "STL": 0.5,
+            "3P%": 32.0
         },
         {
-            "Pos": 152,
             "Player": "Jakob Poeltl",
             "Team": "TOR",
-            "Points per Game": 11.1
+            "PTS": 11.1,
+            "AST": 2.5,
+            "REB": 8.6,
+            "BLK": 1.5,
+            "STL": 0.7,
+            "3P%": 0.0
         },
         {
-            "Pos": 153,
             "Player": "Russell Westbrook",
             "Team": "LAC",
-            "Points per Game": 11.1
+            "PTS": 11.1,
+            "AST": 4.5,
+            "REB": 5.0,
+            "BLK": 0.3,
+            "STL": 1.1,
+            "3P%": 27.3
         },
         {
-            "Pos": 154,
             "Player": "De'Anthony Melton",
             "Team": "PHI",
-            "Points per Game": 11.1
+            "PTS": 11.1,
+            "AST": 3.0,
+            "REB": 3.7,
+            "BLK": 0.4,
+            "STL": 1.6,
+            "3P%": 36.0
         },
         {
-            "Pos": 155,
             "Player": "Eric Gordon",
             "Team": "PHX",
-            "Points per Game": 11.0
+            "PTS": 11.0,
+            "AST": 2.0,
+            "REB": 1.8,
+            "BLK": 0.4,
+            "STL": 1.0,
+            "3P%": 37.8
         },
         {
-            "Pos": 156,
             "Player": "Herbert Jones",
             "Team": "NOP",
-            "Points per Game": 11.0
+            "PTS": 11.0,
+            "AST": 2.6,
+            "REB": 3.6,
+            "BLK": 0.8,
+            "STL": 1.4,
+            "3P%": 41.8
         },
         {
-            "Pos": 157,
             "Player": "Daniel Gafford",
             "Team": "DAL",
-            "Points per Game": 11.0
+            "PTS": 11.0,
+            "AST": 1.6,
+            "REB": 7.6,
+            "BLK": 2.1,
+            "STL": 0.9,
+            "3P%": 0.0
         },
         {
-            "Pos": 157,
             "Player": "Luke Kennard",
             "Team": "MEM",
-            "Points per Game": 11.0
+            "PTS": 11.0,
+            "AST": 3.5,
+            "REB": 2.9,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 45.0
         },
         {
-            "Pos": 159,
             "Player": "Wendell Carter Jr.",
             "Team": "ORL",
-            "Points per Game": 11.0
+            "PTS": 11.0,
+            "AST": 1.7,
+            "REB": 6.9,
+            "BLK": 0.5,
+            "STL": 0.6,
+            "3P%": 37.4
         },
         {
-            "Pos": 160,
             "Player": "Isaiah Stewart",
             "Team": "DET",
-            "Points per Game": 10.9
+            "PTS": 10.9,
+            "AST": 1.6,
+            "REB": 6.6,
+            "BLK": 0.8,
+            "STL": 0.4,
+            "3P%": 38.3
         },
         {
-            "Pos": 161,
             "Player": "Jusuf Nurkic",
             "Team": "PHX",
-            "Points per Game": 10.9
+            "PTS": 10.9,
+            "AST": 4.0,
+            "REB": 11.0,
+            "BLK": 1.1,
+            "STL": 1.1,
+            "3P%": 24.4
         },
         {
-            "Pos": 162,
             "Player": "Luguentz Dort",
             "Team": "OKC",
-            "Points per Game": 10.9
+            "PTS": 10.9,
+            "AST": 1.4,
+            "REB": 3.6,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 39.4
         },
         {
-            "Pos": 163,
             "Player": "Moritz Wagner",
             "Team": "ORL",
-            "Points per Game": 10.9
+            "PTS": 10.9,
+            "AST": 1.2,
+            "REB": 4.3,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 33.0
         },
         {
-            "Pos": 164,
             "Player": "Bruce Brown",
             "Team": "TOR",
-            "Points per Game": 10.8
+            "PTS": 10.8,
+            "AST": 2.9,
+            "REB": 4.2,
+            "BLK": 0.3,
+            "STL": 0.9,
+            "3P%": 32.3
         },
         {
-            "Pos": 165,
             "Player": "Jake LaRavia",
             "Team": "MEM",
-            "Points per Game": 10.8
+            "PTS": 10.8,
+            "AST": 1.7,
+            "REB": 3.7,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 34.0
         },
         {
-            "Pos": 166,
             "Player": "Santi Aldama",
             "Team": "MEM",
-            "Points per Game": 10.7
+            "PTS": 10.7,
+            "AST": 2.3,
+            "REB": 5.8,
+            "BLK": 0.9,
+            "STL": 0.7,
+            "3P%": 34.9
         },
         {
-            "Pos": 167,
             "Player": "Jaden McDaniels",
             "Team": "MIN",
-            "Points per Game": 10.5
+            "PTS": 10.5,
+            "AST": 1.4,
+            "REB": 3.1,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 33.7
         },
         {
-            "Pos": 168,
             "Player": "Simone Fontecchio",
             "Team": "DET",
-            "Points per Game": 10.5
+            "PTS": 10.5,
+            "AST": 1.5,
+            "REB": 3.7,
+            "BLK": 0.3,
+            "STL": 0.7,
+            "3P%": 40.1
         },
         {
-            "Pos": 169,
             "Player": "Spencer Dinwiddie",
             "Team": "LAL",
-            "Points per Game": 10.5
+            "PTS": 10.5,
+            "AST": 4.7,
+            "REB": 2.7,
+            "BLK": 0.3,
+            "STL": 0.7,
+            "3P%": 33.7
         },
         {
-            "Pos": 170,
             "Player": "Alec Burks",
             "Team": "NYK",
-            "Points per Game": 10.4
+            "PTS": 10.4,
+            "AST": 1.3,
+            "REB": 2.3,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 37.6
         },
         {
-            "Pos": 171,
             "Player": "Grant Williams",
             "Team": "CHA",
-            "Points per Game": 10.3
+            "PTS": 10.3,
+            "AST": 2.3,
+            "REB": 4.2,
+            "BLK": 0.5,
+            "STL": 0.6,
+            "3P%": 37.5
         },
         {
-            "Pos": 172,
             "Player": "Dalano Banton",
             "Team": "POR",
-            "Points per Game": 10.3
+            "PTS": 10.3,
+            "AST": 2.4,
+            "REB": 3.3,
+            "BLK": 0.4,
+            "STL": 0.6,
+            "3P%": 29.6
         },
         {
-            "Pos": 173,
             "Player": "Obi Toppin",
             "Team": "IND",
-            "Points per Game": 10.3
+            "PTS": 10.3,
+            "AST": 1.6,
+            "REB": 3.9,
+            "BLK": 0.5,
+            "STL": 0.6,
+            "3P%": 40.3
         },
         {
-            "Pos": 174,
             "Player": "T.J. McConnell",
             "Team": "IND",
-            "Points per Game": 10.2
+            "PTS": 10.2,
+            "AST": 5.5,
+            "REB": 2.7,
+            "BLK": 0.1,
+            "STL": 1.0,
+            "3P%": 40.9
         },
         {
-            "Pos": 175,
             "Player": "Kevin Huerter",
             "Team": "SAC",
-            "Points per Game": 10.2
+            "PTS": 10.2,
+            "AST": 2.6,
+            "REB": 3.5,
+            "BLK": 0.4,
+            "STL": 0.7,
+            "3P%": 36.1
         },
         {
-            "Pos": 176,
             "Player": "Onyeka Okongwu",
             "Team": "ATL",
-            "Points per Game": 10.2
+            "PTS": 10.2,
+            "AST": 1.3,
+            "REB": 6.8,
+            "BLK": 1.1,
+            "STL": 0.5,
+            "3P%": 33.3
         },
         {
-            "Pos": 177,
             "Player": "Reggie Jackson",
             "Team": "DEN",
-            "Points per Game": 10.2
+            "PTS": 10.2,
+            "AST": 3.8,
+            "REB": 1.9,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 35.9
         },
         {
-            "Pos": 178,
             "Player": "Talen Horton-Tucker",
             "Team": "UTA",
-            "Points per Game": 10.1
+            "PTS": 10.1,
+            "AST": 3.5,
+            "REB": 2.4,
+            "BLK": 0.4,
+            "STL": 0.9,
+            "3P%": 33.0
         },
         {
-            "Pos": 179,
             "Player": "Kentavious Caldwell-Pope",
             "Team": "DEN",
-            "Points per Game": 10.1
+            "PTS": 10.1,
+            "AST": 2.4,
+            "REB": 2.4,
+            "BLK": 0.6,
+            "STL": 1.3,
+            "3P%": 40.6
         },
         {
-            "Pos": 180,
             "Player": "Alex Caruso",
             "Team": "CHI",
-            "Points per Game": 10.1
+            "PTS": 10.1,
+            "AST": 3.5,
+            "REB": 3.8,
+            "BLK": 1.0,
+            "STL": 1.7,
+            "3P%": 40.8
         },
         {
-            "Pos": 181,
             "Player": "Vince Williams Jr.",
             "Team": "MEM",
-            "Points per Game": 10.0
+            "PTS": 10.0,
+            "AST": 3.4,
+            "REB": 5.6,
+            "BLK": 0.7,
+            "STL": 0.9,
+            "3P%": 37.8
         },
         {
-            "Pos": 182,
             "Player": "Tre Jones",
             "Team": "SAS",
-            "Points per Game": 10.0
+            "PTS": 10.0,
+            "AST": 6.2,
+            "REB": 3.8,
+            "BLK": 0.1,
+            "STL": 1.0,
+            "3P%": 33.5
         },
         {
-            "Pos": 183,
             "Player": "Caleb Martin",
             "Team": "MIA",
-            "Points per Game": 10.0
+            "PTS": 10.0,
+            "AST": 2.2,
+            "REB": 4.4,
+            "BLK": 0.5,
+            "STL": 0.7,
+            "3P%": 34.9
         },
         {
-            "Pos": 184,
             "Player": "Patrick Williams",
             "Team": "CHI",
-            "Points per Game": 10.0
+            "PTS": 10.0,
+            "AST": 1.5,
+            "REB": 3.9,
+            "BLK": 0.8,
+            "STL": 0.9,
+            "3P%": 39.9
         },
         {
-            "Pos": 185,
             "Player": "Josh Richardson",
             "Team": "MIA",
-            "Points per Game": 9.9
+            "PTS": 9.9,
+            "AST": 2.4,
+            "REB": 2.8,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 34.7
         },
         {
-            "Pos": 186,
             "Player": "Jalen Smith",
             "Team": "IND",
-            "Points per Game": 9.9
+            "PTS": 9.9,
+            "AST": 1.0,
+            "REB": 5.5,
+            "BLK": 0.6,
+            "STL": 0.3,
+            "3P%": 42.4
         },
         {
-            "Pos": 187,
             "Player": "Gordon Hayward",
             "Team": "OKC",
-            "Points per Game": 9.8
+            "PTS": 9.8,
+            "AST": 3.1,
+            "REB": 3.5,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 41.1
         },
         {
-            "Pos": 188,
             "Player": "Tari Eason",
             "Team": "HOU",
-            "Points per Game": 9.8
+            "PTS": 9.8,
+            "AST": 1.2,
+            "REB": 7.0,
+            "BLK": 0.9,
+            "STL": 1.4,
+            "3P%": 36.0
         },
         {
-            "Pos": 189,
             "Player": "Kelly Olynyk",
             "Team": "TOR",
-            "Points per Game": 9.8
+            "PTS": 9.8,
+            "AST": 4.4,
+            "REB": 5.3,
+            "BLK": 0.4,
+            "STL": 0.9,
+            "3P%": 38.7
         },
         {
-            "Pos": 190,
             "Player": "Lonnie Walker IV",
             "Team": "BKN",
-            "Points per Game": 9.7
+            "PTS": 9.7,
+            "AST": 1.3,
+            "REB": 2.2,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 38.4
         },
         {
-            "Pos": 191,
             "Player": "Nick Richards",
             "Team": "CHA",
-            "Points per Game": 9.7
+            "PTS": 9.7,
+            "AST": 0.8,
+            "REB": 8.0,
+            "BLK": 1.1,
+            "STL": 0.4,
+            "3P%": 0.0
         },
         {
-            "Pos": 192,
             "Player": "Payton Pritchard",
             "Team": "BOS",
-            "Points per Game": 9.6
+            "PTS": 9.6,
+            "AST": 3.4,
+            "REB": 3.2,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 38.5
         },
         {
-            "Pos": 193,
             "Player": "Amen Thompson",
             "Team": "HOU",
-            "Points per Game": 9.5
+            "PTS": 9.5,
+            "AST": 2.6,
+            "REB": 6.6,
+            "BLK": 0.6,
+            "STL": 1.3,
+            "3P%": 13.8
         },
         {
-            "Pos": 194,
             "Player": "Josh Hart",
             "Team": "NYK",
-            "Points per Game": 9.4
+            "PTS": 9.4,
+            "AST": 4.1,
+            "REB": 8.3,
+            "BLK": 0.3,
+            "STL": 0.9,
+            "3P%": 31.0
         },
         {
-            "Pos": 195,
             "Player": "Isaac Okoro",
             "Team": "CLE",
-            "Points per Game": 9.4
+            "PTS": 9.4,
+            "AST": 1.9,
+            "REB": 3.0,
+            "BLK": 0.5,
+            "STL": 0.8,
+            "3P%": 39.1
         },
         {
-            "Pos": 196,
             "Player": "Georges Niang",
             "Team": "CLE",
-            "Points per Game": 9.4
+            "PTS": 9.4,
+            "AST": 1.2,
+            "REB": 3.4,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 37.6
         },
         {
-            "Pos": 197,
             "Player": "Tre Mann",
             "Team": "CHA",
-            "Points per Game": 9.3
+            "PTS": 9.3,
+            "AST": 4.0,
+            "REB": 3.6,
+            "BLK": 0.1,
+            "STL": 1.2,
+            "3P%": 37.3
         },
         {
-            "Pos": 198,
             "Player": "Brandin Podziemski",
             "Team": "GSW",
-            "Points per Game": 9.2
+            "PTS": 9.2,
+            "AST": 3.7,
+            "REB": 5.8,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 38.5
         },
         {
-            "Pos": 199,
             "Player": "Andrew Nembhard",
             "Team": "IND",
-            "Points per Game": 9.2
+            "PTS": 9.2,
+            "AST": 4.1,
+            "REB": 2.1,
+            "BLK": 0.1,
+            "STL": 0.9,
+            "3P%": 35.7
         },
         {
-            "Pos": 200,
             "Player": "Malaki Branham",
             "Team": "SAS",
-            "Points per Game": 9.2
+            "PTS": 9.2,
+            "AST": 2.1,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 34.7
         },
         {
-            "Pos": 201,
             "Player": "Chris Paul",
             "Team": "GSW",
-            "Points per Game": 9.2
+            "PTS": 9.2,
+            "AST": 6.8,
+            "REB": 3.9,
+            "BLK": 0.1,
+            "STL": 1.2,
+            "3P%": 37.1
         },
         {
-            "Pos": 202,
             "Player": "Duop Reath",
             "Team": "POR",
-            "Points per Game": 9.1
+            "PTS": 9.1,
+            "AST": 1.0,
+            "REB": 3.7,
+            "BLK": 0.6,
+            "STL": 0.5,
+            "3P%": 35.9
         },
         {
-            "Pos": 203,
             "Player": "Sam Hauser",
             "Team": "BOS",
-            "Points per Game": 9.0
+            "PTS": 9.0,
+            "AST": 1.0,
+            "REB": 3.5,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 42.4
         },
         {
-            "Pos": 204,
             "Player": "Taurean Prince",
             "Team": "LAL",
-            "Points per Game": 8.9
+            "PTS": 8.9,
+            "AST": 1.5,
+            "REB": 2.9,
+            "BLK": 0.4,
+            "STL": 0.7,
+            "3P%": 39.6
         },
         {
-            "Pos": 205,
             "Player": "Jabari Walker",
             "Team": "POR",
-            "Points per Game": 8.9
+            "PTS": 8.9,
+            "AST": 1.0,
+            "REB": 7.1,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 29.5
         },
         {
-            "Pos": 206,
             "Player": "Ausar Thompson",
             "Team": "DET",
-            "Points per Game": 8.8
+            "PTS": 8.8,
+            "AST": 1.9,
+            "REB": 6.4,
+            "BLK": 0.9,
+            "STL": 1.1,
+            "3P%": 18.6
         },
         {
-            "Pos": 207,
             "Player": "Kevin Love",
             "Team": "MIA",
-            "Points per Game": 8.8
+            "PTS": 8.8,
+            "AST": 2.1,
+            "REB": 6.1,
+            "BLK": 0.2,
+            "STL": 0.3,
+            "3P%": 34.4
         },
         {
-            "Pos": 208,
             "Player": "Dereck Lively II",
             "Team": "DAL",
-            "Points per Game": 8.8
+            "PTS": 8.8,
+            "AST": 1.1,
+            "REB": 6.9,
+            "BLK": 1.4,
+            "STL": 0.7,
+            "3P%": 0.0
         },
         {
-            "Pos": 209,
             "Player": "Terance Mann",
             "Team": "LAC",
-            "Points per Game": 8.8
+            "PTS": 8.8,
+            "AST": 1.6,
+            "REB": 3.4,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 34.8
         },
         {
-            "Pos": 210,
             "Player": "Al Horford",
             "Team": "BOS",
-            "Points per Game": 8.6
+            "PTS": 8.6,
+            "AST": 2.6,
+            "REB": 6.4,
+            "BLK": 1.0,
+            "STL": 0.6,
+            "3P%": 41.9
         },
         {
-            "Pos": 211,
             "Player": "Derrick Jones Jr.",
             "Team": "DAL",
-            "Points per Game": 8.6
+            "PTS": 8.6,
+            "AST": 1.0,
+            "REB": 3.3,
+            "BLK": 0.7,
+            "STL": 0.7,
+            "3P%": 34.3
         },
         {
-            "Pos": 212,
             "Player": "Draymond Green",
             "Team": "GSW",
-            "Points per Game": 8.6
+            "PTS": 8.6,
+            "AST": 6.0,
+            "REB": 7.2,
+            "BLK": 0.9,
+            "STL": 1.0,
+            "3P%": 39.5
         },
         {
-            "Pos": 213,
             "Player": "Dorian Finney-Smith",
             "Team": "BKN",
-            "Points per Game": 8.5
+            "PTS": 8.5,
+            "AST": 1.6,
+            "REB": 4.7,
+            "BLK": 0.6,
+            "STL": 0.8,
+            "3P%": 34.8
         },
         {
-            "Pos": 214,
             "Player": "Gradey Dick",
             "Team": "TOR",
-            "Points per Game": 8.5
+            "PTS": 8.5,
+            "AST": 1.1,
+            "REB": 2.2,
+            "BLK": 0.0,
+            "STL": 0.6,
+            "3P%": 36.5
         },
         {
-            "Pos": 214,
             "Player": "Tristan Vukcevic",
             "Team": "WAS",
-            "Points per Game": 8.5
+            "PTS": 8.5,
+            "AST": 1.3,
+            "REB": 3.6,
+            "BLK": 0.7,
+            "STL": 0.5,
+            "3P%": 27.8
         },
         {
-            "Pos": 216,
             "Player": "Bilal Coulibaly",
             "Team": "WAS",
-            "Points per Game": 8.4
+            "PTS": 8.4,
+            "AST": 1.7,
+            "REB": 4.1,
+            "BLK": 0.8,
+            "STL": 0.9,
+            "3P%": 34.6
         },
         {
-            "Pos": 217,
             "Player": "Andre Drummond",
             "Team": "CHI",
-            "Points per Game": 8.4
+            "PTS": 8.4,
+            "AST": 0.5,
+            "REB": 9.0,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 0.0
         },
         {
-            "Pos": 218,
             "Player": "Miles McBride",
             "Team": "NYK",
-            "Points per Game": 8.3
+            "PTS": 8.3,
+            "AST": 1.7,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.7,
+            "3P%": 41.0
         },
         {
-            "Pos": 219,
             "Player": "Marcus Sasser",
             "Team": "DET",
-            "Points per Game": 8.3
+            "PTS": 8.3,
+            "AST": 3.3,
+            "REB": 1.8,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 37.5
         },
         {
-            "Pos": 220,
             "Player": "Ziaire Williams",
             "Team": "MEM",
-            "Points per Game": 8.2
+            "PTS": 8.2,
+            "AST": 1.5,
+            "REB": 3.5,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 30.7
         },
         {
-            "Pos": 221,
             "Player": "Josh Green",
             "Team": "DAL",
-            "Points per Game": 8.2
+            "PTS": 8.2,
+            "AST": 2.3,
+            "REB": 3.2,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 38.5
         },
         {
-            "Pos": 222,
             "Player": "Isaiah Joe",
             "Team": "OKC",
-            "Points per Game": 8.2
+            "PTS": 8.2,
+            "AST": 1.3,
+            "REB": 2.3,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 41.6
         },
         {
-            "Pos": 223,
             "Player": "Kyle Lowry",
             "Team": "PHI",
-            "Points per Game": 8.1
+            "PTS": 8.1,
+            "AST": 4.2,
+            "REB": 3.2,
+            "BLK": 0.4,
+            "STL": 1.0,
+            "3P%": 39.2
         },
         {
-            "Pos": 224,
             "Player": "Walker Kessler",
             "Team": "UTA",
-            "Points per Game": 8.1
+            "PTS": 8.1,
+            "AST": 0.9,
+            "REB": 7.5,
+            "BLK": 2.4,
+            "STL": 0.5,
+            "3P%": 21.1
         },
         {
-            "Pos": 225,
             "Player": "Moses Moody",
             "Team": "GSW",
-            "Points per Game": 8.1
+            "PTS": 8.1,
+            "AST": 0.9,
+            "REB": 3.0,
+            "BLK": 0.4,
+            "STL": 0.6,
+            "3P%": 36.0
         },
         {
-            "Pos": 226,
             "Player": "Dario Saric",
             "Team": "GSW",
-            "Points per Game": 8.0
+            "PTS": 8.0,
+            "AST": 2.3,
+            "REB": 4.4,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 37.6
         },
         {
-            "Pos": 227,
             "Player": "Nickeil Alexander-Walker",
             "Team": "MIN",
-            "Points per Game": 8.0
+            "PTS": 8.0,
+            "AST": 2.5,
+            "REB": 2.0,
+            "BLK": 0.5,
+            "STL": 0.8,
+            "3P%": 39.1
         },
         {
-            "Pos": 228,
             "Player": "Derrick Rose",
             "Team": "MEM",
-            "Points per Game": 8.0
+            "PTS": 8.0,
+            "AST": 3.3,
+            "REB": 1.9,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 36.6
         },
         {
-            "Pos": 229,
             "Player": "Sam Merrill",
             "Team": "CLE",
-            "Points per Game": 8.0
+            "PTS": 8.0,
+            "AST": 1.8,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 40.4
         },
         {
-            "Pos": 230,
             "Player": "Trayce Jackson-Davis",
             "Team": "GSW",
-            "Points per Game": 7.9
+            "PTS": 7.9,
+            "AST": 1.2,
+            "REB": 5.0,
+            "BLK": 1.1,
+            "STL": 0.4,
+            "3P%": 0.0
         },
         {
-            "Pos": 231,
             "Player": "Jordan Hawkins",
             "Team": "NOP",
-            "Points per Game": 7.8
+            "PTS": 7.8,
+            "AST": 1.0,
+            "REB": 2.2,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 36.6
         },
         {
-            "Pos": 232,
             "Player": "Markelle Fultz",
             "Team": "ORL",
-            "Points per Game": 7.8
+            "PTS": 7.8,
+            "AST": 2.8,
+            "REB": 3.2,
+            "BLK": 0.3,
+            "STL": 1.0,
+            "3P%": 22.2
         },
         {
-            "Pos": 233,
             "Player": "Dante Exum",
             "Team": "DAL",
-            "Points per Game": 7.8
+            "PTS": 7.8,
+            "AST": 2.9,
+            "REB": 2.7,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 49.1
         },
         {
-            "Pos": 234,
             "Player": "Isaiah Hartenstein",
             "Team": "NYK",
-            "Points per Game": 7.8
+            "PTS": 7.8,
+            "AST": 2.5,
+            "REB": 8.3,
+            "BLK": 1.1,
+            "STL": 1.2,
+            "3P%": 33.3
         },
         {
-            "Pos": 235,
             "Player": "Royce O'Neale",
             "Team": "PHX",
-            "Points per Game": 7.7
+            "PTS": 7.7,
+            "AST": 2.8,
+            "REB": 4.8,
+            "BLK": 0.6,
+            "STL": 0.7,
+            "3P%": 37.0
         },
         {
-            "Pos": 236,
             "Player": "RaiQuan Gray",
             "Team": "SAS",
-            "Points per Game": 7.7
+            "PTS": 7.7,
+            "AST": 2.0,
+            "REB": 2.3,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 42.9
         },
         {
-            "Pos": 237,
             "Player": "Nikola Jovic",
             "Team": "MIA",
-            "Points per Game": 7.7
+            "PTS": 7.7,
+            "AST": 2.0,
+            "REB": 4.2,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 39.9
         },
         {
-            "Pos": 238,
             "Player": "Precious Achiuwa",
             "Team": "NYK",
-            "Points per Game": 7.6
+            "PTS": 7.6,
+            "AST": 1.3,
+            "REB": 6.6,
+            "BLK": 0.9,
+            "STL": 0.6,
+            "3P%": 26.8
         },
         {
-            "Pos": 239,
             "Player": "Cody Martin",
             "Team": "CHA",
-            "Points per Game": 7.5
+            "PTS": 7.5,
+            "AST": 3.7,
+            "REB": 3.9,
+            "BLK": 0.6,
+            "STL": 1.1,
+            "3P%": 31.4
         },
         {
-            "Pos": 240,
             "Player": "Brice Sensabaugh",
             "Team": "UTA",
-            "Points per Game": 7.5
+            "PTS": 7.5,
+            "AST": 1.7,
+            "REB": 3.2,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 29.6
         },
         {
-            "Pos": 241,
             "Player": "Toumani Camara",
             "Team": "POR",
-            "Points per Game": 7.5
+            "PTS": 7.5,
+            "AST": 1.2,
+            "REB": 4.9,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 33.7
         },
         {
-            "Pos": 242,
             "Player": "Cameron Payne",
             "Team": "PHI",
-            "Points per Game": 7.4
+            "PTS": 7.4,
+            "AST": 2.6,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 39.0
         },
         {
-            "Pos": 243,
             "Player": "Christian Braun",
             "Team": "DEN",
-            "Points per Game": 7.3
+            "PTS": 7.3,
+            "AST": 1.6,
+            "REB": 3.7,
+            "BLK": 0.4,
+            "STL": 0.5,
+            "3P%": 38.4
         },
         {
-            "Pos": 243,
             "Player": "Paul Reed",
             "Team": "PHI",
-            "Points per Game": 7.3
+            "PTS": 7.3,
+            "AST": 1.3,
+            "REB": 6.0,
+            "BLK": 1.0,
+            "STL": 0.8,
+            "3P%": 36.8
         },
         {
-            "Pos": 245,
             "Player": "Taylor Hendricks",
             "Team": "UTA",
-            "Points per Game": 7.3
+            "PTS": 7.3,
+            "AST": 0.8,
+            "REB": 4.6,
+            "BLK": 0.8,
+            "STL": 0.7,
+            "3P%": 37.9
         },
         {
-            "Pos": 246,
             "Player": "Jaden Hardy",
             "Team": "DAL",
-            "Points per Game": 7.3
+            "PTS": 7.3,
+            "AST": 1.5,
+            "REB": 1.8,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 36.2
         },
         {
-            "Pos": 247,
             "Player": "Trey Lyles",
             "Team": "SAC",
-            "Points per Game": 7.2
+            "PTS": 7.2,
+            "AST": 1.2,
+            "REB": 4.4,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 38.4
         },
         {
-            "Pos": 248,
             "Player": "Johnny Juzang",
             "Team": "UTA",
-            "Points per Game": 7.2
+            "PTS": 7.2,
+            "AST": 1.2,
+            "REB": 1.8,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 41.6
         },
         {
-            "Pos": 249,
             "Player": "Kevin Knox II",
             "Team": "DET",
-            "Points per Game": 7.2
+            "PTS": 7.2,
+            "AST": 0.7,
+            "REB": 2.4,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 33.0
         },
         {
-            "Pos": 250,
             "Player": "Lamar Stevens",
             "Team": "MEM",
-            "Points per Game": 7.2
+            "PTS": 7.2,
+            "AST": 0.7,
+            "REB": 3.3,
+            "BLK": 0.6,
+            "STL": 0.6,
+            "3P%": 30.4
         },
         {
-            "Pos": 251,
             "Player": "Landry Shamet",
             "Team": "WAS",
-            "Points per Game": 7.1
+            "PTS": 7.1,
+            "AST": 1.2,
+            "REB": 1.3,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 33.8
         },
         {
-            "Pos": 252,
             "Player": "Jose Alvarado",
             "Team": "NOP",
-            "Points per Game": 7.1
+            "PTS": 7.1,
+            "AST": 2.1,
+            "REB": 2.3,
+            "BLK": 0.3,
+            "STL": 1.1,
+            "3P%": 37.7
         },
         {
-            "Pos": 253,
             "Player": "James Wiseman",
             "Team": "DET",
-            "Points per Game": 7.1
+            "PTS": 7.1,
+            "AST": 0.9,
+            "REB": 5.3,
+            "BLK": 0.6,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 254,
             "Player": "Naji Marshall",
             "Team": "NOP",
-            "Points per Game": 7.1
+            "PTS": 7.1,
+            "AST": 1.9,
+            "REB": 3.6,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 38.7
         },
         {
-            "Pos": 255,
             "Player": "Quentin Grimes",
             "Team": "DET",
-            "Points per Game": 7.0
+            "PTS": 7.0,
+            "AST": 1.3,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.7,
+            "3P%": 33.8
         },
         {
-            "Pos": 256,
             "Player": "Vasilije Micic",
             "Team": "CHA",
-            "Points per Game": 7.0
+            "PTS": 7.0,
+            "AST": 4.4,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 27.9
         },
         {
-            "Pos": 257,
             "Player": "Jordan Nwora",
             "Team": "TOR",
-            "Points per Game": 7.0
+            "PTS": 7.0,
+            "AST": 1.2,
+            "REB": 2.9,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 33.6
         },
         {
-            "Pos": 258,
             "Player": "Javon Freeman-Liberty",
             "Team": "TOR",
-            "Points per Game": 7.0
+            "PTS": 7.0,
+            "AST": 1.8,
+            "REB": 3.2,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 23.8
         },
         {
-            "Pos": 259,
             "Player": "Aaron Wiggins",
             "Team": "OKC",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 1.1,
+            "REB": 2.4,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 49.2
         },
         {
-            "Pos": 260,
             "Player": "Christian Wood",
             "Team": "LAL",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 1.0,
+            "REB": 5.1,
+            "BLK": 0.7,
+            "STL": 0.3,
+            "3P%": 30.7
         },
         {
-            "Pos": 261,
             "Player": "Bones Hyland",
             "Team": "LAC",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 2.5,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.7,
+            "3P%": 32.6
         },
         {
-            "Pos": 262,
             "Player": "Gary Harris",
             "Team": "ORL",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 1.6,
+            "REB": 1.7,
+            "BLK": 0.3,
+            "STL": 0.9,
+            "3P%": 37.1
         },
         {
-            "Pos": 263,
             "Player": "Killian Hayes",
             "Team": "DET",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 4.9,
+            "REB": 2.8,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 29.7
         },
         {
-            "Pos": 264,
             "Player": "Evan Fournier",
             "Team": "DET",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 1.5,
+            "REB": 1.8,
+            "BLK": 0.2,
+            "STL": 0.9,
+            "3P%": 25.4
         },
         {
-            "Pos": 265,
             "Player": "Maozinha Pereira",
             "Team": "MEM",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 0.3,
+            "REB": 5.3,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 38.5
         },
         {
-            "Pos": 265,
             "Player": "Trendon Watford",
             "Team": "BKN",
-            "Points per Game": 6.9
+            "PTS": 6.9,
+            "AST": 1.3,
+            "REB": 3.1,
+            "BLK": 0.3,
+            "STL": 0.4,
+            "3P%": 39.7
         },
         {
-            "Pos": 267,
             "Player": "Cason Wallace",
             "Team": "OKC",
-            "Points per Game": 6.8
+            "PTS": 6.8,
+            "AST": 1.5,
+            "REB": 2.3,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 41.9
         },
         {
-            "Pos": 268,
             "Player": "Trey Jemison",
             "Team": "MEM",
-            "Points per Game": 6.8
+            "PTS": 6.8,
+            "AST": 1.1,
+            "REB": 5.4,
+            "BLK": 1.1,
+            "STL": 0.5,
+            "3P%": 0.0
         },
         {
-            "Pos": 269,
             "Player": "Robert Williams III",
             "Team": "POR",
-            "Points per Game": 6.8
+            "PTS": 6.8,
+            "AST": 0.8,
+            "REB": 6.3,
+            "BLK": 1.2,
+            "STL": 1.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 270,
             "Player": "Julian Champagnie",
             "Team": "SAS",
-            "Points per Game": 6.8
+            "PTS": 6.8,
+            "AST": 1.4,
+            "REB": 2.8,
+            "BLK": 0.6,
+            "STL": 0.6,
+            "3P%": 36.5
         },
         {
-            "Pos": 271,
             "Player": "Day'Ron Sharpe",
             "Team": "BKN",
-            "Points per Game": 6.8
+            "PTS": 6.8,
+            "AST": 1.4,
+            "REB": 6.4,
+            "BLK": 0.7,
+            "STL": 0.4,
+            "3P%": 26.7
         },
         {
-            "Pos": 272,
             "Player": "Cedi Osman",
             "Team": "SAS",
-            "Points per Game": 6.8
+            "PTS": 6.8,
+            "AST": 1.7,
+            "REB": 2.5,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 38.9
         },
         {
-            "Pos": 273,
             "Player": "Jonathan Isaac",
             "Team": "ORL",
-            "Points per Game": 6.8
+            "PTS": 6.8,
+            "AST": 0.5,
+            "REB": 4.5,
+            "BLK": 1.2,
+            "STL": 0.7,
+            "3P%": 37.5
         },
         {
-            "Pos": 274,
             "Player": "Davis Bertans",
             "Team": "CHA",
-            "Points per Game": 6.7
+            "PTS": 6.7,
+            "AST": 0.8,
+            "REB": 1.4,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 38.0
         },
         {
-            "Pos": 275,
             "Player": "Jahmi'us Ramsey",
             "Team": "TOR",
-            "Points per Game": 6.7
+            "PTS": 6.7,
+            "AST": 1.1,
+            "REB": 3.1,
+            "BLK": 0.0,
+            "STL": 1.0,
+            "3P%": 27.3
         },
         {
-            "Pos": 276,
             "Player": "Peyton Watson",
             "Team": "DEN",
-            "Points per Game": 6.7
+            "PTS": 6.7,
+            "AST": 1.1,
+            "REB": 3.2,
+            "BLK": 1.1,
+            "STL": 0.5,
+            "3P%": 29.6
         },
         {
-            "Pos": 277,
             "Player": "Amir Coffey",
             "Team": "LAC",
-            "Points per Game": 6.6
+            "PTS": 6.6,
+            "AST": 1.1,
+            "REB": 2.1,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 38.0
         },
         {
-            "Pos": 278,
             "Player": "Aaron Holiday",
             "Team": "HOU",
-            "Points per Game": 6.6
+            "PTS": 6.6,
+            "AST": 1.8,
+            "REB": 1.6,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 38.7
         },
         {
-            "Pos": 279,
             "Player": "Dennis Smith Jr.",
             "Team": "BKN",
-            "Points per Game": 6.6
+            "PTS": 6.6,
+            "AST": 3.6,
+            "REB": 2.9,
+            "BLK": 0.2,
+            "STL": 1.2,
+            "3P%": 29.4
         },
         {
-            "Pos": 280,
             "Player": "David Roddy",
             "Team": "PHX",
-            "Points per Game": 6.5
+            "PTS": 6.5,
+            "AST": 1.2,
+            "REB": 3.2,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 29.3
         },
         {
-            "Pos": 281,
             "Player": "Jeff Green",
             "Team": "HOU",
-            "Points per Game": 6.5
+            "PTS": 6.5,
+            "AST": 0.9,
+            "REB": 2.3,
+            "BLK": 0.4,
+            "STL": 0.2,
+            "3P%": 33.1
         },
         {
-            "Pos": 282,
             "Player": "Chimezie Metu",
             "Team": "DET",
-            "Points per Game": 6.5
+            "PTS": 6.5,
+            "AST": 0.9,
+            "REB": 3.8,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 29.8
         },
         {
-            "Pos": 283,
             "Player": "David Duke Jr.",
             "Team": "SAS",
-            "Points per Game": 6.5
+            "PTS": 6.5,
+            "AST": 1.3,
+            "REB": 2.5,
+            "BLK": 0.0,
+            "STL": 0.5,
+            "3P%": 50.0
         },
         {
-            "Pos": 284,
             "Player": "Jordan Goodwin",
             "Team": "MEM",
-            "Points per Game": 6.5
+            "PTS": 6.5,
+            "AST": 2.7,
+            "REB": 4.4,
+            "BLK": 0.3,
+            "STL": 0.8,
+            "3P%": 29.8
         },
         {
-            "Pos": 285,
             "Player": "Marcus Morris Sr.",
             "Team": "CLE",
-            "Points per Game": 6.4
+            "PTS": 6.4,
+            "AST": 0.7,
+            "REB": 2.7,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 40.3
         },
         {
-            "Pos": 286,
             "Player": "Chris Boucher",
             "Team": "TOR",
-            "Points per Game": 6.4
+            "PTS": 6.4,
+            "AST": 0.5,
+            "REB": 4.1,
+            "BLK": 0.5,
+            "STL": 0.3,
+            "3P%": 33.0
         },
         {
-            "Pos": 287,
             "Player": "Kyle Anderson",
             "Team": "MIN",
-            "Points per Game": 6.4
+            "PTS": 6.4,
+            "AST": 4.2,
+            "REB": 3.5,
+            "BLK": 0.6,
+            "STL": 0.9,
+            "3P%": 22.9
         },
         {
-            "Pos": 288,
             "Player": "Isaiah Jackson",
             "Team": "IND",
-            "Points per Game": 6.4
+            "PTS": 6.4,
+            "AST": 0.8,
+            "REB": 4.0,
+            "BLK": 1.0,
+            "STL": 0.6,
+            "3P%": 0.0
         },
         {
-            "Pos": 289,
             "Player": "Jared Butler",
             "Team": "WAS",
-            "Points per Game": 6.3
+            "PTS": 6.3,
+            "AST": 3.2,
+            "REB": 1.5,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 30.8
         },
         {
-            "Pos": 290,
             "Player": "Bruno Fernando",
             "Team": "ATL",
-            "Points per Game": 6.3
+            "PTS": 6.3,
+            "AST": 1.0,
+            "REB": 4.3,
+            "BLK": 0.6,
+            "STL": 0.6,
+            "3P%": 0.0
         },
         {
-            "Pos": 290,
             "Player": "Daniel Theis",
             "Team": "LAC",
-            "Points per Game": 6.3
+            "PTS": 6.3,
+            "AST": 1.0,
+            "REB": 4.1,
+            "BLK": 0.9,
+            "STL": 0.4,
+            "3P%": 36.6
         },
         {
-            "Pos": 292,
             "Player": "Jae Crowder",
             "Team": "MIL",
-            "Points per Game": 6.2
+            "PTS": 6.2,
+            "AST": 1.3,
+            "REB": 3.2,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 34.9
         },
         {
-            "Pos": 293,
             "Player": "Jaylen Nowell",
             "Team": "DET",
-            "Points per Game": 6.2
+            "PTS": 6.2,
+            "AST": 1.5,
+            "REB": 1.8,
+            "BLK": 0.2,
+            "STL": 0.3,
+            "3P%": 20.7
         },
         {
-            "Pos": 294,
             "Player": "Keon Johnson",
             "Team": "BKN",
-            "Points per Game": 6.2
+            "PTS": 6.2,
+            "AST": 0.6,
+            "REB": 1.4,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 40.0
         },
         {
-            "Pos": 295,
             "Player": "Patrick Beverley",
             "Team": "MIL",
-            "Points per Game": 6.2
+            "PTS": 6.2,
+            "AST": 2.9,
+            "REB": 3.3,
+            "BLK": 0.4,
+            "STL": 0.6,
+            "3P%": 33.7
         },
         {
-            "Pos": 296,
             "Player": "Haywood Highsmith",
             "Team": "MIA",
-            "Points per Game": 6.1
+            "PTS": 6.1,
+            "AST": 1.1,
+            "REB": 3.2,
+            "BLK": 0.5,
+            "STL": 0.8,
+            "3P%": 39.6
         },
         {
-            "Pos": 296,
             "Player": "Vit Krejci",
             "Team": "ATL",
-            "Points per Game": 6.1
+            "PTS": 6.1,
+            "AST": 2.3,
+            "REB": 2.4,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 41.2
         },
         {
-            "Pos": 298,
             "Player": "Ben Simmons",
             "Team": "BKN",
-            "Points per Game": 6.1
+            "PTS": 6.1,
+            "AST": 5.7,
+            "REB": 7.9,
+            "BLK": 0.6,
+            "STL": 0.8,
+            "3P%": 0.0
         },
         {
-            "Pos": 299,
             "Player": "Kris Murray",
             "Team": "POR",
-            "Points per Game": 6.1
+            "PTS": 6.1,
+            "AST": 1.3,
+            "REB": 3.6,
+            "BLK": 0.3,
+            "STL": 0.9,
+            "3P%": 26.8
         },
         {
-            "Pos": 300,
             "Player": "Zavier Simpson",
             "Team": "MEM",
-            "Points per Game": 6.0
+            "PTS": 6.0,
+            "AST": 3.6,
+            "REB": 2.9,
+            "BLK": 0.4,
+            "STL": 1.0,
+            "3P%": 29.4
         },
         {
-            "Pos": 301,
             "Player": "Tosan Evbuomwan",
             "Team": "DET",
-            "Points per Game": 5.9
+            "PTS": 5.9,
+            "AST": 0.9,
+            "REB": 3.5,
+            "BLK": 0.3,
+            "STL": 0.4,
+            "3P%": 37.5
         },
         {
-            "Pos": 302,
             "Player": "Justin Champagnie",
             "Team": "WAS",
-            "Points per Game": 5.9
+            "PTS": 5.9,
+            "AST": 1.3,
+            "REB": 3.5,
+            "BLK": 0.6,
+            "STL": 0.7,
+            "3P%": 28.9
         },
         {
-            "Pos": 303,
             "Player": "Nick Smith Jr.",
             "Team": "CHA",
-            "Points per Game": 5.9
+            "PTS": 5.9,
+            "AST": 1.2,
+            "REB": 1.4,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 43.2
         },
         {
-            "Pos": 304,
             "Player": "Ochai Agbaji",
             "Team": "TOR",
-            "Points per Game": 5.8
+            "PTS": 5.8,
+            "AST": 1.1,
+            "REB": 2.8,
+            "BLK": 0.6,
+            "STL": 0.6,
+            "3P%": 29.4
         },
         {
-            "Pos": 305,
             "Player": "Dyson Daniels",
             "Team": "NOP",
-            "Points per Game": 5.8
+            "PTS": 5.8,
+            "AST": 2.7,
+            "REB": 3.9,
+            "BLK": 0.4,
+            "STL": 1.4,
+            "3P%": 31.1
         },
         {
-            "Pos": 306,
             "Player": "Noah Clowney",
             "Team": "BKN",
-            "Points per Game": 5.8
+            "PTS": 5.8,
+            "AST": 0.8,
+            "REB": 3.5,
+            "BLK": 0.7,
+            "STL": 0.3,
+            "3P%": 36.4
         },
         {
-            "Pos": 307,
             "Player": "Larry Nance Jr.",
             "Team": "NOP",
-            "Points per Game": 5.7
+            "PTS": 5.7,
+            "AST": 1.9,
+            "REB": 5.0,
+            "BLK": 0.3,
+            "STL": 1.0,
+            "3P%": 41.5
         },
         {
-            "Pos": 308,
             "Player": "Torrey Craig",
             "Team": "CHI",
-            "Points per Game": 5.7
+            "PTS": 5.7,
+            "AST": 1.1,
+            "REB": 4.1,
+            "BLK": 0.4,
+            "STL": 0.6,
+            "3P%": 39.2
         },
         {
-            "Pos": 309,
             "Player": "Danilo Gallinari",
             "Team": "MIL",
-            "Points per Game": 5.7
+            "PTS": 5.7,
+            "AST": 1.1,
+            "REB": 2.2,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 32.3
         },
         {
-            "Pos": 310,
             "Player": "Thomas Bryant",
             "Team": "MIA",
-            "Points per Game": 5.7
+            "PTS": 5.7,
+            "AST": 0.6,
+            "REB": 3.7,
+            "BLK": 0.4,
+            "STL": 0.3,
+            "3P%": 18.2
         },
         {
-            "Pos": 311,
             "Player": "Pat Connaughton",
             "Team": "MIL",
-            "Points per Game": 5.6
+            "PTS": 5.6,
+            "AST": 2.1,
+            "REB": 3.1,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 34.5
         },
         {
-            "Pos": 312,
             "Player": "Craig Porter Jr.",
             "Team": "CLE",
-            "Points per Game": 5.6
+            "PTS": 5.6,
+            "AST": 2.3,
+            "REB": 2.1,
+            "BLK": 0.3,
+            "STL": 0.4,
+            "3P%": 35.3
         },
         {
-            "Pos": 313,
             "Player": "Mitchell Robinson",
             "Team": "NYK",
-            "Points per Game": 5.6
+            "PTS": 5.6,
+            "AST": 0.6,
+            "REB": 8.5,
+            "BLK": 1.1,
+            "STL": 1.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 314,
             "Player": "Malachi Flynn",
             "Team": "DET",
-            "Points per Game": 5.5
+            "PTS": 5.5,
+            "AST": 1.9,
+            "REB": 1.7,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 33.1
         },
         {
-            "Pos": 315,
             "Player": "Dexter Dennis",
             "Team": "DAL",
-            "Points per Game": 5.5
+            "PTS": 5.5,
+            "AST": 1.0,
+            "REB": 2.3,
+            "BLK": 0.3,
+            "STL": 0.0,
+            "3P%": 12.5
         },
         {
-            "Pos": 315,
             "Player": "Neemias Queta",
             "Team": "BOS",
-            "Points per Game": 5.5
+            "PTS": 5.5,
+            "AST": 0.7,
+            "REB": 4.4,
+            "BLK": 0.8,
+            "STL": 0.5,
+            "3P%": 0.0
         },
         {
-            "Pos": 317,
             "Player": "Doug McDermott",
             "Team": "IND",
-            "Points per Game": 5.5
+            "PTS": 5.5,
+            "AST": 1.1,
+            "REB": 0.9,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 41.0
         },
         {
-            "Pos": 318,
             "Player": "Gary Payton II",
             "Team": "GSW",
-            "Points per Game": 5.5
+            "PTS": 5.5,
+            "AST": 1.1,
+            "REB": 2.6,
+            "BLK": 0.4,
+            "STL": 0.9,
+            "3P%": 36.4
         },
         {
-            "Pos": 319,
             "Player": "Matisse Thybulle",
             "Team": "POR",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 1.4,
+            "REB": 2.1,
+            "BLK": 0.8,
+            "STL": 1.7,
+            "3P%": 34.6
         },
         {
-            "Pos": 320,
             "Player": "Keon Ellis",
             "Team": "SAC",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 1.5,
+            "REB": 2.2,
+            "BLK": 0.5,
+            "STL": 0.9,
+            "3P%": 41.7
         },
         {
-            "Pos": 321,
             "Player": "Matt Ryan",
             "Team": "NOP",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 0.6,
+            "REB": 1.4,
+            "BLK": 0.0,
+            "STL": 0.2,
+            "3P%": 45.1
         },
         {
-            "Pos": 322,
             "Player": "Cam Reddish",
             "Team": "LAL",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 1.0,
+            "REB": 2.1,
+            "BLK": 0.3,
+            "STL": 1.0,
+            "3P%": 33.6
         },
         {
-            "Pos": 323,
             "Player": "Kris Dunn",
             "Team": "UTA",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 3.8,
+            "REB": 2.9,
+            "BLK": 0.4,
+            "STL": 1.0,
+            "3P%": 36.9
         },
         {
-            "Pos": 324,
             "Player": "Ricky Council IV",
             "Team": "PHI",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 0.5,
+            "REB": 1.4,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 37.5
         },
         {
-            "Pos": 325,
             "Player": "Dean Wade",
             "Team": "CLE",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 0.8,
+            "REB": 4.0,
+            "BLK": 0.5,
+            "STL": 0.7,
+            "3P%": 39.1
         },
         {
-            "Pos": 326,
             "Player": "Sasha Vezenkov",
             "Team": "SAC",
-            "Points per Game": 5.4
+            "PTS": 5.4,
+            "AST": 0.5,
+            "REB": 2.3,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 37.5
         },
         {
-            "Pos": 327,
             "Player": "Darius Bazley",
             "Team": "UTA",
-            "Points per Game": 5.3
+            "PTS": 5.3,
+            "AST": 0.8,
+            "REB": 3.1,
+            "BLK": 0.8,
+            "STL": 0.7,
+            "3P%": 25.0
         },
         {
-            "Pos": 327,
             "Player": "Nicolas Batum",
             "Team": "PHI",
-            "Points per Game": 5.3
+            "PTS": 5.3,
+            "AST": 2.1,
+            "REB": 4.1,
+            "BLK": 0.6,
+            "STL": 0.8,
+            "3P%": 39.5
         },
         {
-            "Pos": 329,
             "Player": "Mason Plumlee",
             "Team": "LAC",
-            "Points per Game": 5.3
+            "PTS": 5.3,
+            "AST": 1.2,
+            "REB": 5.1,
+            "BLK": 0.4,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 330,
             "Player": "Luke Kornet",
             "Team": "BOS",
-            "Points per Game": 5.3
+            "PTS": 5.3,
+            "AST": 1.1,
+            "REB": 4.1,
+            "BLK": 1.0,
+            "STL": 0.4,
+            "3P%": 100.0
         },
         {
-            "Pos": 331,
             "Player": "Stanley Umude",
             "Team": "DET",
-            "Points per Game": 5.3
+            "PTS": 5.3,
+            "AST": 0.5,
+            "REB": 2.1,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 45.3
         },
         {
-            "Pos": 332,
             "Player": "Davion Mitchell",
             "Team": "SAC",
-            "Points per Game": 5.3
+            "PTS": 5.3,
+            "AST": 1.9,
+            "REB": 1.3,
+            "BLK": 0.0,
+            "STL": 0.2,
+            "3P%": 36.1
         },
         {
-            "Pos": 333,
             "Player": "Xavier Tillman",
             "Team": "BOS",
-            "Points per Game": 5.3
+            "PTS": 5.3,
+            "AST": 1.4,
+            "REB": 3.9,
+            "BLK": 0.8,
+            "STL": 0.9,
+            "3P%": 24.7
         },
         {
-            "Pos": 334,
             "Player": "Brandon Boston Jr.",
             "Team": "LAC",
-            "Points per Game": 5.2
+            "PTS": 5.2,
+            "AST": 0.4,
+            "REB": 1.6,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 26.9
         },
         {
-            "Pos": 335,
             "Player": "Aleksej Pokusevski",
             "Team": "CHA",
-            "Points per Game": 5.2
+            "PTS": 5.2,
+            "AST": 1.3,
+            "REB": 3.2,
+            "BLK": 0.5,
+            "STL": 0.5,
+            "3P%": 32.7
         },
         {
-            "Pos": 336,
             "Player": "Bol Bol",
             "Team": "PHX",
-            "Points per Game": 5.2
+            "PTS": 5.2,
+            "AST": 0.4,
+            "REB": 3.2,
+            "BLK": 0.6,
+            "STL": 0.2,
+            "3P%": 42.3
         },
         {
-            "Pos": 337,
             "Player": "Jarred Vanderbilt",
             "Team": "LAL",
-            "Points per Game": 5.2
+            "PTS": 5.2,
+            "AST": 1.2,
+            "REB": 4.8,
+            "BLK": 0.2,
+            "STL": 1.2,
+            "3P%": 29.6
         },
         {
-            "Pos": 338,
             "Player": "Seth Curry",
             "Team": "CHA",
-            "Points per Game": 5.1
+            "PTS": 5.1,
+            "AST": 1.0,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 35.2
         },
         {
-            "Pos": 339,
             "Player": "Bryce McGowens",
             "Team": "CHA",
-            "Points per Game": 5.1
+            "PTS": 5.1,
+            "AST": 0.9,
+            "REB": 1.7,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 33.3
         },
         {
-            "Pos": 340,
             "Player": "Drew Eubanks",
             "Team": "PHX",
-            "Points per Game": 5.1
+            "PTS": 5.1,
+            "AST": 0.8,
+            "REB": 4.3,
+            "BLK": 0.8,
+            "STL": 0.4,
+            "3P%": 100.0
         },
         {
-            "Pos": 341,
             "Player": "Goga Bitadze",
             "Team": "ORL",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 1.3,
+            "REB": 4.6,
+            "BLK": 1.2,
+            "STL": 0.5,
+            "3P%": 14.3
         },
         {
-            "Pos": 342,
             "Player": "D.J. Wilson",
             "Team": "PHI",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 1.0,
+            "REB": 1.0,
+            "BLK": 1.0,
+            "STL": 0.0,
+            "3P%": 100.0
         },
         {
-            "Pos": 342,
             "Player": "Kobi Simmons",
             "Team": "TOR",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 3.0,
+            "REB": 1.8,
+            "BLK": 0.5,
+            "STL": 1.5,
+            "3P%": 25.0
         },
         {
-            "Pos": 344,
             "Player": "Jalen Wilson",
             "Team": "BKN",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 1.0,
+            "REB": 3.0,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 32.4
         },
         {
-            "Pos": 345,
             "Player": "Richaun Holmes",
             "Team": "WAS",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 0.6,
+            "REB": 4.6,
+            "BLK": 0.5,
+            "STL": 0.3,
+            "3P%": 33.3
         },
         {
-            "Pos": 346,
             "Player": "Monte Morris",
             "Team": "MIN",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 2.1,
+            "REB": 1.7,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 38.6
         },
         {
-            "Pos": 347,
             "Player": "Jevon Carter",
             "Team": "CHI",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 1.3,
+            "REB": 0.8,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 32.9
         },
         {
-            "Pos": 348,
             "Player": "Devonte' Graham",
             "Team": "SAS",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 2.1,
+            "REB": 1.6,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 30.1
         },
         {
-            "Pos": 348,
             "Player": "Isaiah Livers",
             "Team": "DET",
-            "Points per Game": 5.0
+            "PTS": 5.0,
+            "AST": 1.1,
+            "REB": 2.1,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 28.6
         },
         {
-            "Pos": 350,
             "Player": "Garrison Mathews",
             "Team": "ATL",
-            "Points per Game": 4.9
+            "PTS": 4.9,
+            "AST": 0.6,
+            "REB": 1.4,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 44.0
         },
         {
-            "Pos": 351,
             "Player": "Jock Landale",
             "Team": "HOU",
-            "Points per Game": 4.9
+            "PTS": 4.9,
+            "AST": 1.2,
+            "REB": 3.1,
+            "BLK": 0.6,
+            "STL": 0.4,
+            "3P%": 25.0
         },
         {
-            "Pos": 352,
             "Player": "Jared Rhoden",
             "Team": "DET",
-            "Points per Game": 4.9
+            "PTS": 4.9,
+            "AST": 0.8,
+            "REB": 1.9,
+            "BLK": 0.8,
+            "STL": 0.2,
+            "3P%": 38.7
         },
         {
-            "Pos": 353,
             "Player": "Eugene Omoruyi",
             "Team": "WAS",
-            "Points per Game": 4.8
+            "PTS": 4.8,
+            "AST": 0.8,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 28.3
         },
         {
-            "Pos": 354,
             "Player": "DeJon Jarreau",
             "Team": "MEM",
-            "Points per Game": 4.8
+            "PTS": 4.8,
+            "AST": 2.9,
+            "REB": 4.9,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 30.8
         },
         {
-            "Pos": 355,
             "Player": "Kobe Bufkin",
             "Team": "ATL",
-            "Points per Game": 4.8
+            "PTS": 4.8,
+            "AST": 1.6,
+            "REB": 1.9,
+            "BLK": 0.3,
+            "STL": 0.4,
+            "3P%": 22.5
         },
         {
-            "Pos": 356,
             "Player": "Kenrich Williams",
             "Team": "OKC",
-            "Points per Game": 4.7
+            "PTS": 4.7,
+            "AST": 1.3,
+            "REB": 3.0,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 39.7
         },
         {
-            "Pos": 357,
             "Player": "Omer Yurtseven",
             "Team": "UTA",
-            "Points per Game": 4.6
+            "PTS": 4.6,
+            "AST": 0.6,
+            "REB": 4.3,
+            "BLK": 0.4,
+            "STL": 0.2,
+            "3P%": 20.8
         },
         {
-            "Pos": 358,
             "Player": "Josh Okogie",
             "Team": "PHX",
-            "Points per Game": 4.6
+            "PTS": 4.6,
+            "AST": 1.1,
+            "REB": 2.6,
+            "BLK": 0.4,
+            "STL": 0.8,
+            "3P%": 30.9
         },
         {
-            "Pos": 359,
             "Player": "Anthony Black",
             "Team": "ORL",
-            "Points per Game": 4.6
+            "PTS": 4.6,
+            "AST": 1.3,
+            "REB": 2.0,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 39.4
         },
         {
-            "Pos": 360,
             "Player": "Kenneth Lofton Jr.",
             "Team": "UTA",
-            "Points per Game": 4.6
+            "PTS": 4.6,
+            "AST": 1.6,
+            "REB": 1.8,
+            "BLK": 0.2,
+            "STL": 0.3,
+            "3P%": 29.2
         },
         {
-            "Pos": 361,
             "Player": "Julian Strawther",
             "Team": "DEN",
-            "Points per Game": 4.5
+            "PTS": 4.5,
+            "AST": 0.9,
+            "REB": 1.2,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 29.7
         },
         {
-            "Pos": 362,
             "Player": "Kevon Looney",
             "Team": "GSW",
-            "Points per Game": 4.5
+            "PTS": 4.5,
+            "AST": 1.8,
+            "REB": 5.7,
+            "BLK": 0.4,
+            "STL": 0.4,
+            "3P%": 0.0
         },
         {
-            "Pos": 363,
             "Player": "AJ Green",
             "Team": "MIL",
-            "Points per Game": 4.5
+            "PTS": 4.5,
+            "AST": 0.5,
+            "REB": 1.1,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 40.8
         },
         {
-            "Pos": 363,
             "Player": "Shake Milton",
             "Team": "NYK",
-            "Points per Game": 4.5
+            "PTS": 4.5,
+            "AST": 1.3,
+            "REB": 1.6,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 28.1
         },
         {
-            "Pos": 363,
             "Player": "Taze Moore",
             "Team": "POR",
-            "Points per Game": 4.5
+            "PTS": 4.5,
+            "AST": 1.3,
+            "REB": 2.0,
+            "BLK": 0.0,
+            "STL": 0.5,
+            "3P%": 14.3
         },
         {
-            "Pos": 366,
             "Player": "Delon Wright",
             "Team": "MIA",
-            "Points per Game": 4.5
+            "PTS": 4.5,
+            "AST": 2.5,
+            "REB": 1.8,
+            "BLK": 0.2,
+            "STL": 1.1,
+            "3P%": 36.8
         },
         {
-            "Pos": 367,
             "Player": "Maxi Kleber",
             "Team": "DAL",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 1.6,
+            "REB": 3.3,
+            "BLK": 0.7,
+            "STL": 0.4,
+            "3P%": 34.8
         },
         {
-            "Pos": 368,
             "Player": "Mo Bamba",
             "Team": "PHI",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 0.7,
+            "REB": 4.2,
+            "BLK": 1.1,
+            "STL": 0.4,
+            "3P%": 39.1
         },
         {
-            "Pos": 369,
             "Player": "Lester Quinones",
             "Team": "GSW",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 1.0,
+            "REB": 1.9,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 36.4
         },
         {
-            "Pos": 370,
             "Player": "Jontay Porter",
             "Team": "TOR",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 2.3,
+            "REB": 3.2,
+            "BLK": 0.8,
+            "STL": 0.8,
+            "3P%": 33.3
         },
         {
-            "Pos": 371,
             "Player": "Ben Sheppard",
             "Team": "IND",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 0.9,
+            "REB": 1.6,
+            "BLK": 0.0,
+            "STL": 0.6,
+            "3P%": 31.4
         },
         {
-            "Pos": 371,
             "Player": "Patrick Baldwin Jr.",
             "Team": "WAS",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 0.8,
+            "REB": 3.2,
+            "BLK": 0.4,
+            "STL": 0.5,
+            "3P%": 32.0
         },
         {
-            "Pos": 373,
             "Player": "MarJon Beauchamp",
             "Team": "MIL",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 0.6,
+            "REB": 2.1,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 40.0
         },
         {
-            "Pos": 374,
             "Player": "Blake Wesley",
             "Team": "SAS",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 2.7,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 21.8
         },
         {
-            "Pos": 375,
             "Player": "Robert Covington",
             "Team": "PHI",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 0.8,
+            "REB": 3.3,
+            "BLK": 0.6,
+            "STL": 1.3,
+            "3P%": 33.9
         },
         {
-            "Pos": 376,
             "Player": "Dominick Barlow",
             "Team": "SAS",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 1.1,
+            "REB": 3.4,
+            "BLK": 0.4,
+            "STL": 0.4,
+            "3P%": 33.3
         },
         {
-            "Pos": 377,
             "Player": "Joe Ingles",
             "Team": "ORL",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 3.0,
+            "REB": 2.1,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 43.5
         },
         {
-            "Pos": 378,
             "Player": "Bismack Biyombo",
             "Team": "OKC",
-            "Points per Game": 4.4
+            "PTS": 4.4,
+            "AST": 1.3,
+            "REB": 5.2,
+            "BLK": 0.9,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 379,
             "Player": "Dru Smith",
             "Team": "MIA",
-            "Points per Game": 4.3
+            "PTS": 4.3,
+            "AST": 1.6,
+            "REB": 1.6,
+            "BLK": 0.3,
+            "STL": 1.0,
+            "3P%": 41.2
         },
         {
-            "Pos": 379,
             "Player": "Jeff Dowtin Jr.",
             "Team": "PHI",
-            "Points per Game": 4.3
+            "PTS": 4.3,
+            "AST": 2.3,
+            "REB": 1.7,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 47.4
         },
         {
-            "Pos": 381,
             "Player": "Jaxson Hayes",
             "Team": "LAL",
-            "Points per Game": 4.3
+            "PTS": 4.3,
+            "AST": 0.5,
+            "REB": 3.0,
+            "BLK": 0.4,
+            "STL": 0.5,
+            "3P%": 0.0
         },
         {
-            "Pos": 382,
             "Player": "Caleb Houstan",
             "Team": "ORL",
-            "Points per Game": 4.3
+            "PTS": 4.3,
+            "AST": 0.5,
+            "REB": 1.4,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 37.3
         },
         {
-            "Pos": 383,
             "Player": "John Konchar",
             "Team": "MEM",
-            "Points per Game": 4.3
+            "PTS": 4.3,
+            "AST": 2.0,
+            "REB": 4.7,
+            "BLK": 0.9,
+            "STL": 0.9,
+            "3P%": 31.7
         },
         {
-            "Pos": 384,
             "Player": "Max Christie",
             "Team": "LAL",
-            "Points per Game": 4.2
+            "PTS": 4.2,
+            "AST": 0.9,
+            "REB": 2.1,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 35.6
         },
         {
-            "Pos": 385,
             "Player": "Danuel House Jr.",
             "Team": "PHI",
-            "Points per Game": 4.2
+            "PTS": 4.2,
+            "AST": 0.8,
+            "REB": 1.7,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 30.0
         },
         {
-            "Pos": 386,
             "Player": "Jacob Gilyard",
             "Team": "BKN",
-            "Points per Game": 4.2
+            "PTS": 4.2,
+            "AST": 3.3,
+            "REB": 1.1,
+            "BLK": 0.1,
+            "STL": 0.8,
+            "3P%": 40.5
         },
         {
-            "Pos": 387,
             "Player": "Ashton Hagans",
             "Team": "POR",
-            "Points per Game": 4.2
+            "PTS": 4.2,
+            "AST": 2.8,
+            "REB": 2.4,
+            "BLK": 0.5,
+            "STL": 0.6,
+            "3P%": 32.0
         },
         {
-            "Pos": 388,
             "Player": "Armoni Brooks",
             "Team": "BKN",
-            "Points per Game": 4.2
+            "PTS": 4.2,
+            "AST": 0.5,
+            "REB": 1.8,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 34.4
         },
         {
-            "Pos": 389,
             "Player": "Troy Brown Jr.",
             "Team": "DET",
-            "Points per Game": 4.2
+            "PTS": 4.2,
+            "AST": 1.0,
+            "REB": 2.4,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 33.3
         },
         {
-            "Pos": 390,
             "Player": "Thaddeus Young",
             "Team": "PHX",
-            "Points per Game": 4.2
+            "PTS": 4.2,
+            "AST": 1.7,
+            "REB": 3.1,
+            "BLK": 0.2,
+            "STL": 0.7,
+            "3P%": 14.3
         },
         {
-            "Pos": 391,
             "Player": "Sandro Mamukelashvili",
             "Team": "SAS",
-            "Points per Game": 4.1
+            "PTS": 4.1,
+            "AST": 1.1,
+            "REB": 3.2,
+            "BLK": 0.3,
+            "STL": 0.2,
+            "3P%": 29.7
         },
         {
-            "Pos": 392,
             "Player": "Luka Samanic",
             "Team": "UTA",
-            "Points per Game": 4.1
+            "PTS": 4.1,
+            "AST": 0.4,
+            "REB": 2.4,
+            "BLK": 0.2,
+            "STL": 0.1,
+            "3P%": 20.3
         },
         {
-            "Pos": 393,
             "Player": "Skylar Mays",
             "Team": "LAL",
-            "Points per Game": 4.1
+            "PTS": 4.1,
+            "AST": 2.2,
+            "REB": 1.1,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 29.6
         },
         {
-            "Pos": 394,
             "Player": "Jae'Sean Tate",
             "Team": "HOU",
-            "Points per Game": 4.1
+            "PTS": 4.1,
+            "AST": 1.0,
+            "REB": 3.0,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 29.9
         },
         {
-            "Pos": 395,
             "Player": "Justin Holiday",
             "Team": "DEN",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 1.2,
+            "REB": 1.2,
+            "BLK": 0.2,
+            "STL": 0.6,
+            "3P%": 40.4
         },
         {
-            "Pos": 396,
             "Player": "Ousmane Dieng",
             "Team": "OKC",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 1.1,
+            "REB": 1.5,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 30.0
         },
         {
-            "Pos": 397,
             "Player": "JaVale McGee",
             "Team": "SAC",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 0.4,
+            "REB": 2.7,
+            "BLK": 0.4,
+            "STL": 0.3,
+            "3P%": 14.3
         },
         {
-            "Pos": 398,
             "Player": "Adama Sanogo",
             "Team": "CHI",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 0.0,
+            "REB": 4.0,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 0.0
         },
         {
-            "Pos": 398,
             "Player": "Izaiah Brockington",
             "Team": "NOP",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 0.0,
+            "REB": 2.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 398,
             "Player": "Jaylin Williams",
             "Team": "OKC",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 1.6,
+            "REB": 3.4,
+            "BLK": 0.4,
+            "STL": 0.4,
+            "3P%": 36.8
         },
         {
-            "Pos": 398,
             "Player": "Matt Hurt",
             "Team": "MEM",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 0.5,
+            "REB": 2.0,
+            "BLK": 0.4,
+            "STL": 0.4,
+            "3P%": 25.0
         },
         {
-            "Pos": 398,
             "Player": "Mouhamed Gueye",
             "Team": "ATL",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 0.7,
+            "REB": 3.7,
+            "BLK": 0.7,
+            "STL": 0.8,
+            "3P%": 33.3
         },
         {
-            "Pos": 403,
             "Player": "Rayan Rupert",
             "Team": "POR",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 1.6,
+            "REB": 2.4,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 35.9
         },
         {
-            "Pos": 404,
             "Player": "Patty Mills",
             "Team": "MIA",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 1.1,
+            "REB": 1.1,
+            "BLK": 0.0,
+            "STL": 0.6,
+            "3P%": 27.6
         },
         {
-            "Pos": 405,
             "Player": "Luka Garza",
             "Team": "MIN",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 0.2,
+            "REB": 1.2,
+            "BLK": 0.0,
+            "STL": 0.2,
+            "3P%": 28.1
         },
         {
-            "Pos": 406,
             "Player": "Svi Mykhailiuk",
             "Team": "BOS",
-            "Points per Game": 4.0
+            "PTS": 4.0,
+            "AST": 0.9,
+            "REB": 1.2,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 38.9
         },
         {
-            "Pos": 407,
             "Player": "DeAndre Jordan",
             "Team": "DEN",
-            "Points per Game": 3.9
+            "PTS": 3.9,
+            "AST": 0.7,
+            "REB": 4.4,
+            "BLK": 0.4,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 408,
             "Player": "Chris Duarte",
             "Team": "SAC",
-            "Points per Game": 3.9
+            "PTS": 3.9,
+            "AST": 0.7,
+            "REB": 1.8,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 34.6
         },
         {
-            "Pos": 409,
             "Player": "Jules Bernard",
             "Team": "WAS",
-            "Points per Game": 3.9
+            "PTS": 3.9,
+            "AST": 0.8,
+            "REB": 1.4,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 37.9
         },
         {
-            "Pos": 410,
             "Player": "Anthony Gill",
             "Team": "WAS",
-            "Points per Game": 3.8
+            "PTS": 3.8,
+            "AST": 0.7,
+            "REB": 1.9,
+            "BLK": 0.2,
+            "STL": 0.3,
+            "3P%": 24.4
         },
         {
-            "Pos": 411,
             "Player": "Sidy Cissoko",
             "Team": "SAS",
-            "Points per Game": 3.8
+            "PTS": 3.8,
+            "AST": 0.8,
+            "REB": 1.8,
+            "BLK": 0.3,
+            "STL": 0.6,
+            "3P%": 8.3
         },
         {
-            "Pos": 412,
             "Player": "KJ Martin",
             "Team": "PHI",
-            "Points per Game": 3.7
+            "PTS": 3.7,
+            "AST": 0.9,
+            "REB": 2.2,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 28.6
         },
         {
-            "Pos": 413,
             "Player": "Jamal Cain",
             "Team": "MIA",
-            "Points per Game": 3.7
+            "PTS": 3.7,
+            "AST": 0.4,
+            "REB": 1.4,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 35.5
         },
         {
-            "Pos": 414,
             "Player": "T.J. Warren",
             "Team": "MIN",
-            "Points per Game": 3.7
+            "PTS": 3.7,
+            "AST": 0.8,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 15.4
         },
         {
-            "Pos": 415,
             "Player": "Keita Bates-Diop",
             "Team": "BKN",
-            "Points per Game": 3.7
+            "PTS": 3.7,
+            "AST": 0.7,
+            "REB": 2.1,
+            "BLK": 0.4,
+            "STL": 0.5,
+            "3P%": 30.4
         },
         {
-            "Pos": 416,
             "Player": "Drew Peterson",
             "Team": "BOS",
-            "Points per Game": 3.7
+            "PTS": 3.7,
+            "AST": 0.3,
+            "REB": 0.3,
+            "BLK": 0.0,
+            "STL": 0.7,
+            "3P%": 60.0
         },
         {
-            "Pos": 417,
             "Player": "Oshae Brissett",
             "Team": "BOS",
-            "Points per Game": 3.7
+            "PTS": 3.7,
+            "AST": 0.8,
+            "REB": 2.9,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 27.3
         },
         {
-            "Pos": 418,
             "Player": "Jarace Walker",
             "Team": "IND",
-            "Points per Game": 3.6
+            "PTS": 3.6,
+            "AST": 1.2,
+            "REB": 1.9,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 40.0
         },
         {
-            "Pos": 419,
             "Player": "Collin Gillespie",
             "Team": "DEN",
-            "Points per Game": 3.6
+            "PTS": 3.6,
+            "AST": 1.1,
+            "REB": 0.9,
+            "BLK": 0.0,
+            "STL": 0.5,
+            "3P%": 39.5
         },
         {
-            "Pos": 420,
             "Player": "Lindy Waters III",
             "Team": "OKC",
-            "Points per Game": 3.6
+            "PTS": 3.6,
+            "AST": 0.6,
+            "REB": 1.1,
+            "BLK": 0.2,
+            "STL": 0.1,
+            "3P%": 43.5
         },
         {
-            "Pos": 421,
             "Player": "James Bouknight",
             "Team": "CHA",
-            "Points per Game": 3.6
+            "PTS": 3.6,
+            "AST": 0.4,
+            "REB": 0.6,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 43.3
         },
         {
-            "Pos": 422,
             "Player": "Gui Santos",
             "Team": "GSW",
-            "Points per Game": 3.6
+            "PTS": 3.6,
+            "AST": 0.6,
+            "REB": 2.1,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 37.0
         },
         {
-            "Pos": 423,
             "Player": "Jordan McLaughlin",
             "Team": "MIN",
-            "Points per Game": 3.5
+            "PTS": 3.5,
+            "AST": 2.0,
+            "REB": 1.3,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 47.2
         },
         {
-            "Pos": 424,
             "Player": "Onuralp Bitim",
             "Team": "CHI",
-            "Points per Game": 3.5
+            "PTS": 3.5,
+            "AST": 0.6,
+            "REB": 1.4,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 27.3
         },
         {
-            "Pos": 425,
             "Player": "Theo Maledon",
             "Team": "PHX",
-            "Points per Game": 3.5
+            "PTS": 3.5,
+            "AST": 1.6,
+            "REB": 1.4,
+            "BLK": 0.0,
+            "STL": 0.4,
+            "3P%": 16.7
         },
         {
-            "Pos": 426,
             "Player": "Yuta Watanabe",
             "Team": "MEM",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 0.4,
+            "REB": 1.6,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 29.4
         },
         {
-            "Pos": 427,
             "Player": "Moses Brown",
             "Team": "POR",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 0.3,
+            "REB": 3.9,
+            "BLK": 0.3,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 428,
             "Player": "Buddy Boeheim",
             "Team": "DET",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 0.3,
+            "REB": 1.0,
+            "BLK": 0.1,
+            "STL": 0.0,
+            "3P%": 32.0
         },
         {
-            "Pos": 428,
             "Player": "Wenyen Gabriel",
             "Team": "MEM",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 0.6,
+            "REB": 5.0,
+            "BLK": 0.4,
+            "STL": 0.4,
+            "3P%": 16.7
         },
         {
-            "Pos": 430,
             "Player": "Ryan Rollins",
             "Team": "MIL",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 1.1,
+            "REB": 1.0,
+            "BLK": 0.2,
+            "STL": 0.8,
+            "3P%": 75.0
         },
         {
-            "Pos": 431,
             "Player": "Jalen McDaniels",
             "Team": "TOR",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 0.7,
+            "REB": 1.6,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 16.9
         },
         {
-            "Pos": 432,
             "Player": "Nassir Little",
             "Team": "PHX",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 0.5,
+            "REB": 1.7,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 30.0
         },
         {
-            "Pos": 433,
             "Player": "Marques Bolden",
             "Team": "CHA",
-            "Points per Game": 3.4
+            "PTS": 3.4,
+            "AST": 0.4,
+            "REB": 3.1,
+            "BLK": 0.6,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 434,
             "Player": "Jaden Springer",
             "Team": "BOS",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 0.9,
+            "REB": 1.6,
+            "BLK": 0.3,
+            "STL": 0.7,
+            "3P%": 20.8
         },
         {
-            "Pos": 435,
             "Player": "Charles Bassey",
             "Team": "SAS",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 1.1,
+            "REB": 4.0,
+            "BLK": 0.9,
+            "STL": 0.4,
+            "3P%": 0.0
         },
         {
-            "Pos": 436,
             "Player": "Micah Potter",
             "Team": "UTA",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 0.4,
+            "REB": 2.7,
+            "BLK": 0.4,
+            "STL": 0.3,
+            "3P%": 42.9
         },
         {
-            "Pos": 437,
             "Player": "Dwight Powell",
             "Team": "DAL",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 1.3,
+            "REB": 3.4,
+            "BLK": 0.3,
+            "STL": 0.4,
+            "3P%": 33.3
         },
         {
-            "Pos": 438,
             "Player": "Tristan Thompson",
             "Team": "CLE",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 1.0,
+            "REB": 3.6,
+            "BLK": 0.3,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 439,
             "Player": "Garrett Temple",
             "Team": "TOR",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 1.0,
+            "REB": 1.7,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 30.0
         },
         {
-            "Pos": 440,
             "Player": "Oscar Tshiebwe",
             "Team": "IND",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 0.3,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 440,
             "Player": "Terquavion Smith",
             "Team": "PHI",
-            "Points per Game": 3.3
+            "PTS": 3.3,
+            "AST": 0.8,
+            "REB": 0.3,
+            "BLK": 0.0,
+            "STL": 0.5,
+            "3P%": 37.1
         },
         {
-            "Pos": 442,
             "Player": "A.J. Lawson",
             "Team": "DAL",
-            "Points per Game": 3.2
+            "PTS": 3.2,
+            "AST": 0.5,
+            "REB": 1.2,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 26.0
         },
         {
-            "Pos": 443,
             "Player": "Ish Smith",
             "Team": "CHA",
-            "Points per Game": 3.2
+            "PTS": 3.2,
+            "AST": 3.4,
+            "REB": 1.8,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 50.0
         },
         {
-            "Pos": 444,
             "Player": "Boban Marjanovic",
             "Team": "HOU",
-            "Points per Game": 3.2
+            "PTS": 3.2,
+            "AST": 0.4,
+            "REB": 2.3,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 0.0
         },
         {
-            "Pos": 445,
             "Player": "Zeke Nnaji",
             "Team": "DEN",
-            "Points per Game": 3.2
+            "PTS": 3.2,
+            "AST": 0.6,
+            "REB": 2.2,
+            "BLK": 0.7,
+            "STL": 0.3,
+            "3P%": 26.1
         },
         {
-            "Pos": 446,
             "Player": "Kira Lewis Jr.",
             "Team": "UTA",
-            "Points per Game": 3.2
+            "PTS": 3.2,
+            "AST": 1.3,
+            "REB": 0.9,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 12.1
         },
         {
-            "Pos": 447,
             "Player": "Brandon Williams",
             "Team": "DAL",
-            "Points per Game": 3.2
+            "PTS": 3.2,
+            "AST": 1.0,
+            "REB": 0.8,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 20.0
         },
         {
-            "Pos": 448,
             "Player": "JT Thor",
             "Team": "CHA",
-            "Points per Game": 3.2
+            "PTS": 3.2,
+            "AST": 0.5,
+            "REB": 2.3,
+            "BLK": 0.4,
+            "STL": 0.2,
+            "3P%": 34.6
         },
         {
-            "Pos": 449,
             "Player": "Gabe Vincent",
             "Team": "LAL",
-            "Points per Game": 3.1
+            "PTS": 3.1,
+            "AST": 1.9,
+            "REB": 0.8,
+            "BLK": 0.0,
+            "STL": 0.8,
+            "3P%": 10.7
         },
         {
-            "Pos": 450,
             "Player": "Wesley Matthews",
             "Team": "ATL",
-            "Points per Game": 3.1
+            "PTS": 3.1,
+            "AST": 0.6,
+            "REB": 1.5,
+            "BLK": 0.3,
+            "STL": 0.4,
+            "3P%": 34.8
         },
         {
-            "Pos": 451,
             "Player": "Dalen Terry",
             "Team": "CHI",
-            "Points per Game": 3.1
+            "PTS": 3.1,
+            "AST": 1.4,
+            "REB": 1.9,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 23.0
         },
         {
-            "Pos": 452,
             "Player": "Johnny Davis",
             "Team": "WAS",
-            "Points per Game": 3.0
+            "PTS": 3.0,
+            "AST": 0.6,
+            "REB": 1.4,
+            "BLK": 0.2,
+            "STL": 0.4,
+            "3P%": 35.0
         },
         {
-            "Pos": 453,
             "Player": "Olivier-Maxence Prosper",
             "Team": "DAL",
-            "Points per Game": 3.0
+            "PTS": 3.0,
+            "AST": 0.6,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 28.9
         },
         {
-            "Pos": 454,
             "Player": "Mike Muscala",
             "Team": "OKC",
-            "Points per Game": 3.0
+            "PTS": 3.0,
+            "AST": 0.7,
+            "REB": 2.4,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 29.2
         },
         {
-            "Pos": 455,
             "Player": "Saben Lee",
             "Team": "PHX",
-            "Points per Game": 3.0
+            "PTS": 3.0,
+            "AST": 1.3,
+            "REB": 1.3,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 12.5
         },
         {
-            "Pos": 456,
             "Player": "Jeremiah Robinson-Earl",
             "Team": "NOP",
-            "Points per Game": 2.9
+            "PTS": 2.9,
+            "AST": 0.5,
+            "REB": 1.9,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 33.3
         },
         {
-            "Pos": 457,
             "Player": "Nate Williams",
             "Team": "HOU",
-            "Points per Game": 2.9
+            "PTS": 2.9,
+            "AST": 0.3,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.2,
+            "3P%": 40.0
         },
         {
-            "Pos": 458,
             "Player": "Trevelin Queen",
             "Team": "ORL",
-            "Points per Game": 2.9
+            "PTS": 2.9,
+            "AST": 1.3,
+            "REB": 1.4,
+            "BLK": 0.4,
+            "STL": 0.5,
+            "3P%": 17.6
         },
         {
-            "Pos": 459,
             "Player": "D.J. Carton",
             "Team": "TOR",
-            "Points per Game": 2.8
+            "PTS": 2.8,
+            "AST": 0.8,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 25.0
         },
         {
-            "Pos": 459,
             "Player": "Henri Drell",
             "Team": "CHI",
-            "Points per Game": 2.8
+            "PTS": 2.8,
+            "AST": 1.0,
+            "REB": 1.0,
+            "BLK": 0.3,
+            "STL": 0.5,
+            "3P%": 33.3
         },
         {
-            "Pos": 459,
             "Player": "Orlando Robinson",
             "Team": "MIA",
-            "Points per Game": 2.8
+            "PTS": 2.8,
+            "AST": 0.9,
+            "REB": 2.3,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 53.3
         },
         {
-            "Pos": 462,
             "Player": "Damian Jones",
             "Team": "CLE",
-            "Points per Game": 2.7
+            "PTS": 2.7,
+            "AST": 0.4,
+            "REB": 1.6,
+            "BLK": 0.3,
+            "STL": 0.2,
+            "3P%": 21.4
         },
         {
-            "Pos": 463,
             "Player": "Emoni Bates",
             "Team": "CLE",
-            "Points per Game": 2.7
+            "PTS": 2.7,
+            "AST": 0.7,
+            "REB": 0.9,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 30.3
         },
         {
-            "Pos": 464,
             "Player": "Malik Williams",
             "Team": "TOR",
-            "Points per Game": 2.7
+            "PTS": 2.7,
+            "AST": 0.3,
+            "REB": 5.4,
+            "BLK": 0.6,
+            "STL": 0.4,
+            "3P%": 20.0
         },
         {
-            "Pos": 465,
             "Player": "Leaky Black",
             "Team": "CHA",
-            "Points per Game": 2.7
+            "PTS": 2.7,
+            "AST": 0.9,
+            "REB": 1.8,
+            "BLK": 0.4,
+            "STL": 0.3,
+            "3P%": 45.0
         },
         {
-            "Pos": 466,
             "Player": "Moussa Diabate",
             "Team": "LAC",
-            "Points per Game": 2.6
+            "PTS": 2.6,
+            "AST": 0.4,
+            "REB": 2.2,
+            "BLK": 0.1,
+            "STL": 0.5,
+            "3P%": 0.0
         },
         {
-            "Pos": 467,
             "Player": "Otto Porter Jr.",
             "Team": "TOR",
-            "Points per Game": 2.6
+            "PTS": 2.6,
+            "AST": 0.5,
+            "REB": 1.9,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 34.8
         },
         {
-            "Pos": 467,
             "Player": "Timmy Allen",
             "Team": "MEM",
-            "Points per Game": 2.6
+            "PTS": 2.6,
+            "AST": 1.0,
+            "REB": 3.4,
+            "BLK": 0.0,
+            "STL": 0.8,
+            "3P%": 0.0
         },
         {
-            "Pos": 469,
             "Player": "Markieff Morris",
             "Team": "DAL",
-            "Points per Game": 2.5
+            "PTS": 2.5,
+            "AST": 0.6,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 35.7
         },
         {
-            "Pos": 470,
             "Player": "Dylan Windler",
             "Team": "ATL",
-            "Points per Game": 2.5
+            "PTS": 2.5,
+            "AST": 0.6,
+            "REB": 0.9,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 48.1
         },
         {
-            "Pos": 471,
             "Player": "Furkan Korkmaz",
             "Team": "PHI",
-            "Points per Game": 2.5
+            "PTS": 2.5,
+            "AST": 0.7,
+            "REB": 0.9,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 35.0
         },
         {
-            "Pos": 472,
             "Player": "Alex Fudge",
             "Team": "DAL",
-            "Points per Game": 2.5
+            "PTS": 2.5,
+            "AST": 0.0,
+            "REB": 0.8,
+            "BLK": 0.0,
+            "STL": 0.5,
+            "3P%": 20.0
         },
         {
-            "Pos": 472,
             "Player": "Alex Len",
             "Team": "SAC",
-            "Points per Game": 2.5
+            "PTS": 2.5,
+            "AST": 1.0,
+            "REB": 2.7,
+            "BLK": 0.7,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 472,
             "Player": "Greg Brown III",
             "Team": "DAL",
-            "Points per Game": 2.5
+            "PTS": 2.5,
+            "AST": 0.7,
+            "REB": 1.5,
+            "BLK": 0.7,
+            "STL": 0.0,
+            "3P%": 33.3
         },
         {
-            "Pos": 475,
             "Player": "Joe Harris",
             "Team": "DET",
-            "Points per Game": 2.4
+            "PTS": 2.4,
+            "AST": 0.6,
+            "REB": 0.8,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 33.3
         },
         {
-            "Pos": 476,
             "Player": "Harry Giles III",
             "Team": "LAL",
-            "Points per Game": 2.4
+            "PTS": 2.4,
+            "AST": 0.3,
+            "REB": 1.3,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 21.4
         },
         {
-            "Pos": 477,
             "Player": "Cory Joseph",
             "Team": "GSW",
-            "Points per Game": 2.4
+            "PTS": 2.4,
+            "AST": 1.6,
+            "REB": 1.2,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 31.0
         },
         {
-            "Pos": 478,
             "Player": "AJ Griffin",
             "Team": "ATL",
-            "Points per Game": 2.4
+            "PTS": 2.4,
+            "AST": 0.3,
+            "REB": 0.9,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 25.6
         },
         {
-            "Pos": 479,
             "Player": "Mouhamadou Gueye",
             "Team": "TOR",
-            "Points per Game": 2.4
+            "PTS": 2.4,
+            "AST": 0.5,
+            "REB": 2.1,
+            "BLK": 1.6,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 480,
             "Player": "Xavier Moon",
             "Team": "LAC",
-            "Points per Game": 2.4
+            "PTS": 2.4,
+            "AST": 1.5,
+            "REB": 1.3,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 11.8
         },
         {
-            "Pos": 481,
             "Player": "Cole Swider",
             "Team": "MIA",
-            "Points per Game": 2.3
+            "PTS": 2.3,
+            "AST": 0.3,
+            "REB": 0.4,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 33.3
         },
         {
-            "Pos": 481,
             "Player": "Dereon Seabron",
             "Team": "NOP",
-            "Points per Game": 2.3
+            "PTS": 2.3,
+            "AST": 0.8,
+            "REB": 1.2,
+            "BLK": 0.2,
+            "STL": 0.3,
+            "3P%": 50.0
         },
         {
-            "Pos": 481,
             "Player": "Jamaree Bouyea",
             "Team": "SAS",
-            "Points per Game": 2.3
+            "PTS": 2.3,
+            "AST": 1.2,
+            "REB": 2.1,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 11.1
         },
         {
-            "Pos": 484,
             "Player": "Amari Bailey",
             "Team": "CHA",
-            "Points per Game": 2.3
+            "PTS": 2.3,
+            "AST": 0.7,
+            "REB": 0.9,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 12.5
         },
         {
-            "Pos": 484,
             "Player": "Isaiah Mobley",
             "Team": "CLE",
-            "Points per Game": 2.3
+            "PTS": 2.3,
+            "AST": 0.6,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.2,
+            "3P%": 30.0
         },
         {
-            "Pos": 486,
             "Player": "Chuma Okeke",
             "Team": "ORL",
-            "Points per Game": 2.3
+            "PTS": 2.3,
+            "AST": 0.4,
+            "REB": 1.7,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 28.0
         },
         {
-            "Pos": 487,
             "Player": "Olivier Sarr",
             "Team": "OKC",
-            "Points per Game": 2.3
+            "PTS": 2.3,
+            "AST": 0.1,
+            "REB": 2.4,
+            "BLK": 0.5,
+            "STL": 0.0,
+            "3P%": 33.3
         },
         {
-            "Pos": 488,
             "Player": "Julian Phillips",
             "Team": "CHI",
-            "Points per Game": 2.2
+            "PTS": 2.2,
+            "AST": 0.3,
+            "REB": 0.9,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 31.6
         },
         {
-            "Pos": 489,
             "Player": "Nate Hinton",
             "Team": "HOU",
-            "Points per Game": 2.2
+            "PTS": 2.2,
+            "AST": 0.7,
+            "REB": 1.5,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 50.0
         },
         {
-            "Pos": 490,
             "Player": "Andre Jackson Jr.",
             "Team": "MIL",
-            "Points per Game": 2.2
+            "PTS": 2.2,
+            "AST": 0.9,
+            "REB": 2.0,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 37.0
         },
         {
-            "Pos": 491,
             "Player": "Udoka Azubuike",
             "Team": "PHX",
-            "Points per Game": 2.2
+            "PTS": 2.2,
+            "AST": 0.2,
+            "REB": 2.0,
+            "BLK": 0.4,
+            "STL": 0.1,
+            "3P%": 0.0
         },
         {
-            "Pos": 492,
             "Player": "Trent Forrest",
             "Team": "ATL",
-            "Points per Game": 2.2
+            "PTS": 2.2,
+            "AST": 2.4,
+            "REB": 1.3,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 20.0
         },
         {
-            "Pos": 493,
             "Player": "Reggie Bullock Jr.",
             "Team": "HOU",
-            "Points per Game": 2.2
+            "PTS": 2.2,
+            "AST": 0.3,
+            "REB": 1.7,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 40.3
         },
         {
-            "Pos": 494,
             "Player": "Colby Jones",
             "Team": "SAC",
-            "Points per Game": 2.1
+            "PTS": 2.1,
+            "AST": 0.7,
+            "REB": 1.3,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 9.1
         },
         {
-            "Pos": 495,
             "Player": "Ish Wainright",
             "Team": "PHX",
-            "Points per Game": 2.1
+            "PTS": 2.1,
+            "AST": 0.1,
+            "REB": 1.3,
+            "BLK": 0.1,
+            "STL": 0.4,
+            "3P%": 35.0
         },
         {
-            "Pos": 496,
             "Player": "Jericho Sims",
             "Team": "NYK",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.6,
+            "REB": 3.3,
+            "BLK": 0.4,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 497,
             "Player": "Kobe Brown",
             "Team": "LAC",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.6,
+            "REB": 1.4,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 29.2
         },
         {
-            "Pos": 498,
             "Player": "D'Moi Hodge",
             "Team": "LAL",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.7,
+            "REB": 0.0,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 25.0
         },
         {
-            "Pos": 498,
             "Player": "Isaiah Wong",
             "Team": "IND",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 498,
             "Player": "JD Davison",
             "Team": "BOS",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 1.3,
+            "REB": 1.3,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 42.9
         },
         {
-            "Pos": 498,
             "Player": "Jordan Ford",
             "Team": "SAC",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.3,
+            "REB": 0.3,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 66.7
         },
         {
-            "Pos": 498,
             "Player": "Kevon Harris",
             "Team": "ORL",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.5,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 498,
             "Player": "Lindell Wigginton",
             "Team": "MIL",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 498,
             "Player": "Mamadi Diakite",
             "Team": "NYK",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 0.3,
+            "REB": 0.7,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 498,
             "Player": "Markquis Nowell",
             "Team": "TOR",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 2.0,
+            "REB": 2.0,
+            "BLK": 0.0,
+            "STL": 1.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 498,
             "Player": "Ty Jerome",
             "Team": "CLE",
-            "Points per Game": 2.0
+            "PTS": 2.0,
+            "AST": 1.5,
+            "REB": 0.5,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 507,
             "Player": "Daishen Nix",
             "Team": "MIN",
-            "Points per Game": 1.8
+            "PTS": 1.8,
+            "AST": 0.4,
+            "REB": 0.2,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 35.3
         },
         {
-            "Pos": 508,
             "Player": "Justin Minaya",
             "Team": "POR",
-            "Points per Game": 1.8
+            "PTS": 1.8,
+            "AST": 0.6,
+            "REB": 1.6,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 24.5
         },
         {
-            "Pos": 509,
             "Player": "Cody Zeller",
             "Team": "NOP",
-            "Points per Game": 1.8
+            "PTS": 1.8,
+            "AST": 0.9,
+            "REB": 2.6,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 33.3
         },
         {
-            "Pos": 510,
             "Player": "Kessler Edwards",
             "Team": "SAC",
-            "Points per Game": 1.7
+            "PTS": 1.7,
+            "AST": 0.3,
+            "REB": 0.8,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 38.5
         },
         {
-            "Pos": 511,
             "Player": "Jason Preston",
             "Team": "UTA",
-            "Points per Game": 1.7
+            "PTS": 1.7,
+            "AST": 2.3,
+            "REB": 2.4,
+            "BLK": 0.1,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 512,
             "Player": "Leonard Miller",
             "Team": "MIN",
-            "Points per Game": 1.7
+            "PTS": 1.7,
+            "AST": 0.5,
+            "REB": 1.2,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 40.0
         },
         {
-            "Pos": 513,
             "Player": "Taj Gibson",
             "Team": "DET",
-            "Points per Game": 1.7
+            "PTS": 1.7,
+            "AST": 0.6,
+            "REB": 1.9,
+            "BLK": 0.4,
+            "STL": 0.2,
+            "3P%": 20.0
         },
         {
-            "Pos": 514,
             "Player": "P.J. Tucker",
             "Team": "LAC",
-            "Points per Game": 1.7
+            "PTS": 1.7,
+            "AST": 0.5,
+            "REB": 2.7,
+            "BLK": 0.2,
+            "STL": 0.5,
+            "3P%": 37.1
         },
         {
-            "Pos": 515,
             "Player": "Jordan Walsh",
             "Team": "BOS",
-            "Points per Game": 1.7
+            "PTS": 1.7,
+            "AST": 0.6,
+            "REB": 2.2,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 22.2
         },
         {
-            "Pos": 516,
             "Player": "Jordan Miller",
             "Team": "LAC",
-            "Points per Game": 1.6
+            "PTS": 1.6,
+            "AST": 0.0,
+            "REB": 0.6,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 50.0
         },
         {
-            "Pos": 517,
             "Player": "Jalen Hood-Schifino",
             "Team": "LAL",
-            "Points per Game": 1.6
+            "PTS": 1.6,
+            "AST": 0.4,
+            "REB": 0.6,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 13.3
         },
         {
-            "Pos": 518,
             "Player": "Jett Howard",
             "Team": "ORL",
-            "Points per Game": 1.6
+            "PTS": 1.6,
+            "AST": 0.3,
+            "REB": 0.4,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 28.0
         },
         {
-            "Pos": 519,
             "Player": "Josh Minott",
             "Team": "MIN",
-            "Points per Game": 1.6
+            "PTS": 1.6,
+            "AST": 0.3,
+            "REB": 0.5,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 40.0
         },
         {
-            "Pos": 520,
             "Player": "Jalen Pickett",
             "Team": "DEN",
-            "Points per Game": 1.6
+            "PTS": 1.6,
+            "AST": 0.8,
+            "REB": 0.5,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 36.0
         },
         {
-            "Pos": 520,
             "Player": "Seth Lundy",
             "Team": "ATL",
-            "Points per Game": 1.6
+            "PTS": 1.6,
+            "AST": 0.0,
+            "REB": 0.8,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 23.1
         },
         {
-            "Pos": 522,
             "Player": "Ibou Badji",
             "Team": "POR",
-            "Points per Game": 1.5
+            "PTS": 1.5,
+            "AST": 0.6,
+            "REB": 2.3,
+            "BLK": 0.9,
+            "STL": 0.1,
+            "3P%": 0.0
         },
         {
-            "Pos": 523,
             "Player": "Adam Flagler",
             "Team": "OKC",
-            "Points per Game": 1.5
+            "PTS": 1.5,
+            "AST": 2.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 16.7
         },
         {
-            "Pos": 523,
             "Player": "Colin Castleton",
             "Team": "LAL",
-            "Points per Game": 1.5
+            "PTS": 1.5,
+            "AST": 0.2,
+            "REB": 0.8,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 0.0
         },
         {
-            "Pos": 523,
             "Player": "Dariq Whitehead",
             "Team": "BKN",
-            "Points per Game": 1.5
+            "PTS": 1.5,
+            "AST": 1.5,
+            "REB": 2.0,
+            "BLK": 0.5,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 523,
             "Player": "Jack White",
             "Team": "MEM",
-            "Points per Game": 1.5
+            "PTS": 1.5,
+            "AST": 0.3,
+            "REB": 3.0,
+            "BLK": 0.3,
+            "STL": 1.0,
+            "3P%": 20.0
         },
         {
-            "Pos": 527,
             "Player": "Terry Taylor",
             "Team": "CHI",
-            "Points per Game": 1.5
+            "PTS": 1.5,
+            "AST": 0.3,
+            "REB": 1.2,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 22.2
         },
         {
-            "Pos": 528,
             "Player": "Jacob Toppin",
             "Team": "NYK",
-            "Points per Game": 1.4
+            "PTS": 1.4,
+            "AST": 0.3,
+            "REB": 0.8,
+            "BLK": 0.1,
+            "STL": 0.0,
+            "3P%": 25.0
         },
         {
-            "Pos": 529,
             "Player": "Jermaine Samuels Jr.",
             "Team": "HOU",
-            "Points per Game": 1.4
+            "PTS": 1.4,
+            "AST": 0.2,
+            "REB": 0.9,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 0.0
         },
         {
-            "Pos": 530,
             "Player": "Jerome Robinson",
             "Team": "GSW",
-            "Points per Game": 1.4
+            "PTS": 1.4,
+            "AST": 0.2,
+            "REB": 0.3,
+            "BLK": 0.1,
+            "STL": 0.0,
+            "3P%": 11.8
         },
         {
-            "Pos": 531,
             "Player": "Kendall Brown",
             "Team": "IND",
-            "Points per Game": 1.4
+            "PTS": 1.4,
+            "AST": 0.3,
+            "REB": 0.3,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 531,
             "Player": "Mason Jones",
             "Team": "SAC",
-            "Points per Game": 1.4
+            "PTS": 1.4,
+            "AST": 1.0,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.2,
+            "3P%": 28.6
         },
         {
-            "Pos": 533,
             "Player": "Isaiah Thomas",
             "Team": "PHX",
-            "Points per Game": 1.3
+            "PTS": 1.3,
+            "AST": 0.5,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 50.0
         },
         {
-            "Pos": 534,
             "Player": "Nathan Mensah",
             "Team": "CHA",
-            "Points per Game": 1.3
+            "PTS": 1.3,
+            "AST": 0.4,
+            "REB": 2.6,
+            "BLK": 0.6,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 535,
             "Player": "TyTy Washington Jr.",
             "Team": "MIL",
-            "Points per Game": 1.3
+            "PTS": 1.3,
+            "AST": 0.5,
+            "REB": 0.5,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 33.3
         },
         {
-            "Pos": 536,
             "Player": "R.J. Hampton",
             "Team": "MIA",
-            "Points per Game": 1.3
+            "PTS": 1.3,
+            "AST": 1.0,
+            "REB": 0.8,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 12.5
         },
         {
-            "Pos": 537,
             "Player": "Chris Livingston",
             "Team": "MIL",
-            "Points per Game": 1.2
+            "PTS": 1.2,
+            "AST": 0.2,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 20.0
         },
         {
-            "Pos": 538,
             "Player": "Keyontae Johnson",
             "Team": "OKC",
-            "Points per Game": 1.2
+            "PTS": 1.2,
+            "AST": 0.4,
+            "REB": 1.1,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 33.3
         },
         {
-            "Pos": 539,
             "Player": "Jay Huff",
             "Team": "DEN",
-            "Points per Game": 1.2
+            "PTS": 1.2,
+            "AST": 0.1,
+            "REB": 0.6,
+            "BLK": 0.2,
+            "STL": 0.1,
+            "3P%": 33.3
         },
         {
-            "Pos": 540,
             "Player": "Admiral Schofield",
             "Team": "ORL",
-            "Points per Game": 1.1
+            "PTS": 1.1,
+            "AST": 0.3,
+            "REB": 0.7,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 37.5
         },
         {
-            "Pos": 541,
             "Player": "Robin Lopez",
             "Team": "MIL",
-            "Points per Game": 1.1
+            "PTS": 1.1,
+            "AST": 0.3,
+            "REB": 0.3,
+            "BLK": 0.2,
+            "STL": 0.1,
+            "3P%": 25.0
         },
         {
-            "Pos": 542,
             "Player": "Hunter Tyson",
             "Team": "DEN",
-            "Points per Game": 1.1
+            "PTS": 1.1,
+            "AST": 0.1,
+            "REB": 0.5,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 28.6
         },
         {
-            "Pos": 543,
             "Player": "Braxton Key",
             "Team": "DEN",
-            "Points per Game": 1.1
+            "PTS": 1.1,
+            "AST": 0.5,
+            "REB": 0.9,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 40.0
         },
         {
-            "Pos": 544,
             "Player": "Filip Petrusev",
             "Team": "SAC",
-            "Points per Game": 1.0
+            "PTS": 1.0,
+            "AST": 0.0,
+            "REB": 0.3,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 544,
             "Player": "Frank Ntilikina",
             "Team": "CHA",
-            "Points per Game": 1.0
+            "PTS": 1.0,
+            "AST": 0.8,
+            "REB": 1.2,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 12.5
         },
         {
-            "Pos": 544,
             "Player": "Hamidou Diallo",
             "Team": "WAS",
-            "Points per Game": 1.0
+            "PTS": 1.0,
+            "AST": 0.5,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 1.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 544,
             "Player": "Joshua Primo",
             "Team": "LAC",
-            "Points per Game": 1.0
+            "PTS": 1.0,
+            "AST": 0.0,
+            "REB": 0.5,
+            "BLK": 0.5,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 548,
             "Player": "Thanasis Antetokounmpo",
             "Team": "MIL",
-            "Points per Game": 0.9
+            "PTS": 0.9,
+            "AST": 0.5,
+            "REB": 0.4,
+            "BLK": 0.1,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 549,
             "Player": "James Johnson",
             "Team": "IND",
-            "Points per Game": 0.9
+            "PTS": 0.9,
+            "AST": 0.9,
+            "REB": 0.4,
+            "BLK": 0.1,
+            "STL": 0.6,
+            "3P%": 0.0
         },
         {
-            "Pos": 550,
             "Player": "DaQuan Jeffries",
             "Team": "NYK",
-            "Points per Game": 0.8
+            "PTS": 0.8,
+            "AST": 0.3,
+            "REB": 0.3,
+            "BLK": 0.1,
+            "STL": 0.0,
+            "3P%": 20.0
         },
         {
-            "Pos": 551,
             "Player": "Charlie Brown Jr.",
             "Team": "NYK",
-            "Points per Game": 0.8
+            "PTS": 0.8,
+            "AST": 0.0,
+            "REB": 0.3,
+            "BLK": 0.3,
+            "STL": 0.0,
+            "3P%": 28.6
         },
         {
-            "Pos": 552,
             "Player": "Wendell Moore Jr.",
             "Team": "MIN",
-            "Points per Game": 0.7
+            "PTS": 0.7,
+            "AST": 0.2,
+            "REB": 0.5,
+            "BLK": 0.0,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 553,
             "Player": "Alondes Williams",
             "Team": "MIA",
-            "Points per Game": 0.7
+            "PTS": 0.7,
+            "AST": 0.0,
+            "REB": 0.1,
+            "BLK": 0.1,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 554,
             "Player": "Jalen Slawson",
             "Team": "SAC",
-            "Points per Game": 0.7
+            "PTS": 0.7,
+            "AST": 0.2,
+            "REB": 0.6,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 0.0
         },
         {
-            "Pos": 554,
             "Player": "Pat Spencer",
             "Team": "GSW",
-            "Points per Game": 0.7
+            "PTS": 0.7,
+            "AST": 0.8,
+            "REB": 0.7,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 554,
             "Player": "Quenton Jackson",
             "Team": "IND",
-            "Points per Game": 0.7
+            "PTS": 0.7,
+            "AST": 0.7,
+            "REB": 1.3,
+            "BLK": 0.0,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 554,
             "Player": "Shaquille Harrison",
             "Team": "MEM",
-            "Points per Game": 0.7
+            "PTS": 0.7,
+            "AST": 0.0,
+            "REB": 0.7,
+            "BLK": 0.3,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 558,
             "Player": "Juan Toscano-Anderson",
             "Team": "SAC",
-            "Points per Game": 0.6
+            "PTS": 0.6,
+            "AST": 0.4,
+            "REB": 1.3,
+            "BLK": 0.1,
+            "STL": 0.1,
+            "3P%": 25.0
         },
         {
-            "Pos": 559,
             "Player": "E.J. Liddell",
             "Team": "NOP",
-            "Points per Game": 0.5
+            "PTS": 0.5,
+            "AST": 0.1,
+            "REB": 0.6,
+            "BLK": 0.3,
+            "STL": 0.3,
+            "3P%": 0.0
         },
         {
-            "Pos": 559,
             "Player": "Usman Garuba",
             "Team": "GSW",
-            "Points per Game": 0.5
+            "PTS": 0.5,
+            "AST": 0.2,
+            "REB": 1.2,
+            "BLK": 0.5,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 561,
             "Player": "Pete Nance",
             "Team": "CLE",
-            "Points per Game": 0.4
+            "PTS": 0.4,
+            "AST": 0.0,
+            "REB": 0.4,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 100.0
         },
         {
-            "Pos": 562,
             "Player": "Maxwell Lewis",
             "Team": "LAL",
-            "Points per Game": 0.3
+            "PTS": 0.3,
+            "AST": 0.2,
+            "REB": 0.1,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 11.1
         },
         {
-            "Pos": 563,
             "Player": "Andrew Funk",
             "Team": "CHI",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.2,
+            "STL": 0.2,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Danny Green",
             "Team": "PHI",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.5,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.5,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Dmytro Skapintsev",
             "Team": "NYK",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Jalen Crutcher",
             "Team": "NOP",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Javonte Smart",
             "Team": "PHI",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Justin Jackson",
             "Team": "MIN",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Kaiser Gates",
             "Team": "NOP",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.0,
+            "REB": 1.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Malcolm Cazalon",
             "Team": "DET",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Ron Harper Jr.",
             "Team": "TOR",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 1.0,
+            "REB": 0.0,
+            "BLK": 0.0,
+            "STL": 0.0,
+            "3P%": 0.0
         },
         {
-            "Pos": 563,
             "Player": "Ryan Arcidiacono",
             "Team": "NYK",
-            "Points per Game": 0.0
+            "PTS": 0.0,
+            "AST": 0.2,
+            "REB": 0.4,
+            "BLK": 0.0,
+            "STL": 0.1,
+            "3P%": 0.0
         }
     ]
 }

@@ -52,8 +52,8 @@ def scrape_nba_stats(url):
     dropdown2_option_xpath = f'{dropdown2_xpath}/option[1]'
     table_xpath = '//*[@id="__next"]/div[2]/div[2]/div[3]/section[2]/div/div[2]/div[3]/table'
 
-    # Clique no dropdown 1 (Season Type) para selecionar a primeira opção
-    # Click on dropdown 1 (Season Type) to select the first option
+    # Clique no dropdown 1 para selecionar a primeira opção
+    # Click on dropdown 1 to select the first option
     dropdown1 = get_element(driver, dropdown1_xpath)
     if dropdown1:
         dropdown1.click()
@@ -61,8 +61,8 @@ def scrape_nba_stats(url):
         if dropdown1_option:
             dropdown1_option.click()
 
-    # Clique no dropdown 2 (Page) para selecionar a primeira opção
-    # Click on dropdown 2 (Page) to select the first option
+    # Clique no dropdown 2 para selecionar a primeira opção
+    # Click on dropdown 2 to select the first option
     dropdown2 = get_element(driver, dropdown2_xpath)
     if dropdown2:
         dropdown2.click()
@@ -77,9 +77,9 @@ def scrape_nba_stats(url):
 
     # Verificar se a tabela foi carregada corretamente e formatá-la
     # Check if the table was loaded correctly and format it
-    df = df_full[['Unnamed: 0', 'Player', 'Team', 'PTS']] if df_full is not None else None
+    df = df_full[['Player', 'Team', 'PTS', 'AST', 'REB', 'BLK', 'STL', '3P%']] if df_full is not None else None
     if df is not None:
-        df.columns = ['Pos', 'Player', 'Team', 'Points per Game']
+        df.columns = ['Player', 'Team', 'PTS','AST', 'REB', 'BLK', 'STL', '3P%']
         stats_players = {'Points': df.to_dict('records')}
     else:
         stats_players = {}
