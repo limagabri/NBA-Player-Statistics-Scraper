@@ -103,4 +103,4 @@ if __name__ == "__main__":
 
     # Imprimir os dados obtidos
     # Print the obtained data
-    print(stats_players)
+    print('Finalizado')
