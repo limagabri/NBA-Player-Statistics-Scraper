@@ -18,7 +18,7 @@ Este é um script Python para realizar scraping dos dados de estatísticas dos j
    - Make sure you have Firefox browser installed on your system / Certifique-se de ter o navegador Firefox instalado no seu sistema.
 
 3. **Running the Script / Execução do script:**
-   - Run the `nba_stats_scraper.py` script / Execute o script `nba_stats_scraper.py`.
+   - Run the `main.py` script / Execute o script `main.py`.
    - NBA player data will be scraped from the website and saved to a JSON file / Os dados dos jogadores da NBA serão raspados do site e salvos em um arquivo JSON.
 
 4. **Results / Resultados:**
